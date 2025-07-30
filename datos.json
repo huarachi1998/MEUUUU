@@ -1,0 +1,4662 @@
+{
+    "P9_cristianvillcavargas": {
+        "nombre": "P9_cristianvillcavargas",
+        "pppoe": "P9_cristianvillcavargas",
+        "ip": "172.171.1.122",
+        "estado": "online",
+        "nap": "NAP-DESCONOCIDO",
+        "x": -68.12339999999999,
+        "y": -16.5215,
+        "ultima": 1753847390
+    },
+    "P4_gabyhildalaura": {
+        "nombre": "P4_gabyhildalaura",
+        "pppoe": "P4_gabyhildalaura",
+        "ip": "172.171.3.150",
+        "estado": "online",
+        "nap": "NAP-DESCONOCIDO",
+        "x": -68.17859999999999,
+        "y": -16.5033,
+        "ultima": 1753847390
+    },
+    "P7_nelsonfloreslimachi": {
+        "nombre": "P7_nelsonfloreslimachi",
+        "pppoe": "P7_nelsonfloreslimachi",
+        "ip": "172.171.3.40",
+        "estado": "online",
+        "nap": "NAP-DESCONOCIDO",
+        "x": -68.1292,
+        "y": -16.4569,
+        "ultima": 1753847390
+    },
+    "P3_rodrigofranklinhilarichoquehuanca": {
+        "nombre": "P3_rodrigofranklinhilarichoquehuanca",
+        "pppoe": "P3_rodrigofranklinhilarichoquehuanca",
+        "ip": "172.171.3.10",
+        "estado": "online",
+        "nap": "NAP-DESCONOCIDO",
+        "x": -68.1535,
+        "y": -16.5284,
+        "ultima": 1753847390
+    },
+    "P9_antonioquispequispe": {
+        "nombre": "P9_antonioquispequispe",
+        "pppoe": "P9_antonioquispequispe",
+        "ip": "172.171.3.24",
+        "estado": "online",
+        "nap": "NAP-DESCONOCIDO",
+        "x": -68.1451,
+        "y": -16.5046,
+        "ultima": 1753847390
+    },
+    "P9_davidluciagomesfernandez": {
+        "nombre": "P9_davidluciagomesfernandez",
+        "pppoe": "P9_davidluciagomesfernandez",
+        "ip": "172.171.3.22",
+        "estado": "online",
+        "nap": "NAP-DESCONOCIDO",
+        "x": -68.10029999999999,
+        "y": -16.5372,
+        "ultima": 1753847390
+    },
+    "P3_angelluisyapuchuracorine": {
+        "nombre": "P3_angelluisyapuchuracorine",
+        "pppoe": "P3_angelluisyapuchuracorine",
+        "ip": "172.171.0.230",
+        "estado": "online",
+        "nap": "NAP-DESCONOCIDO",
+        "x": -68.17689999999999,
+        "y": -16.4836,
+        "ultima": 1753847390
+    },
+    "P3_blancamarisolhuancaapaza": {
+        "nombre": "P3_blancamarisolhuancaapaza",
+        "pppoe": "P3_blancamarisolhuancaapaza",
+        "ip": "",
+        "estado": "offline",
+        "nap": "NAP-DESCONOCIDO",
+        "x": 121,
+        "y": -16.5354,
+        "ultima": 1752148412
+    },
+    "P9_monicahuayhuaalvarez": {
+        "nombre": "P9_monicahuayhuaalvarez",
+        "pppoe": "P9_monicahuayhuaalvarez",
+        "ip": "172.171.0.10",
+        "estado": "online",
+        "nap": "NAP-DESCONOCIDO",
+        "x": -68.15859999999999,
+        "y": -16.4787,
+        "ultima": 1753847390
+    },
+    "P9_rubenapazaquispe": {
+        "nombre": "P9_rubenapazaquispe",
+        "pppoe": "P9_rubenapazaquispe",
+        "ip": "172.171.3.81",
+        "estado": "online",
+        "nap": "NAP-DESCONOCIDO",
+        "x": -68.1407,
+        "y": -16.5255,
+        "ultima": 1753847390
+    },
+    "P4_grovermamanivillca": {
+        "nombre": "P4_grovermamanivillca",
+        "pppoe": "P4_grovermamanivillca",
+        "ip": "172.171.3.165",
+        "estado": "online",
+        "nap": "NAP-DESCONOCIDO",
+        "x": -68.13409999999999,
+        "y": -16.5406,
+        "ultima": 1753847390
+    },
+    "P_hectorvalencia": {
+        "nombre": "P_hectorvalencia",
+        "pppoe": "P_hectorvalencia",
+        "ip": "172.171.3.64",
+        "estado": "online",
+        "nap": "NAP-DESCONOCIDO",
+        "x": 165,
+        "y": -16.4985,
+        "ultima": 1753847390
+    },
+    "P10_fredymajiapaza": {
+        "nombre": "P10_fredymajiapaza",
+        "pppoe": "P10_fredymajiapaza",
+        "ip": "172.171.3.42",
+        "estado": "online",
+        "nap": "NAP-DESCONOCIDO",
+        "x": -68.10799999999999,
+        "y": -16.5058,
+        "ultima": 1753847390
+    },
+    "P11-alexmamaniramos": {
+        "nombre": "P11-alexmamaniramos",
+        "pppoe": "P11-alexmamaniramos",
+        "ip": "172.171.1.13",
+        "estado": "online",
+        "nap": "NAP-DESCONOCIDO",
+        "x": -68.176,
+        "y": -16.5029,
+        "ultima": 1753847390
+    },
+    "P3_virginiayujraquilla": {
+        "nombre": "P3_virginiayujraquilla",
+        "pppoe": "P3_virginiayujraquilla",
+        "ip": "",
+        "estado": "offline",
+        "nap": "NAP-DESCONOCIDO",
+        "x": -68.0816,
+        "y": -16.4784,
+        "ultima": 1752166450
+    },
+    "P6-sergioquispecallisaya": {
+        "nombre": "P6-sergioquispecallisaya",
+        "pppoe": "P6-sergioquispecallisaya",
+        "ip": "172.171.3.68",
+        "estado": "online",
+        "nap": "NAP-DESCONOCIDO",
+        "x": -68.1151,
+        "y": -16.4678,
+        "ultima": 1753847390
+    },
+    "P10_franciscochuramachaca": {
+        "nombre": "P10_franciscochuramachaca",
+        "pppoe": "P10_franciscochuramachaca",
+        "ip": "172.171.1.20",
+        "estado": "online",
+        "nap": "NAP-DESCONOCIDO",
+        "x": -68.0855,
+        "y": -16.4821,
+        "ultima": 1753847390
+    },
+    "P2_alejandracondori": {
+        "nombre": "P2_alejandracondori",
+        "pppoe": "P2_alejandracondori",
+        "ip": "172.171.2.64",
+        "estado": "online",
+        "nap": "NAP-DESCONOCIDO",
+        "x": -68.1201,
+        "y": -16.4697,
+        "ultima": 1753847390
+    },
+    "P11_joseluismachacayana": {
+        "nombre": "P11_joseluismachacayana",
+        "pppoe": "P11_joseluismachacayana",
+        "ip": "172.171.3.15",
+        "estado": "online",
+        "nap": "NAP-DESCONOCIDO",
+        "x": -68.1322,
+        "y": -16.5408,
+        "ultima": 1753847390
+    },
+    "P3_eloyochoacarlo": {
+        "nombre": "P3_eloyochoacarlo",
+        "pppoe": "P3_eloyochoacarlo",
+        "ip": "172.171.3.93",
+        "estado": "online",
+        "nap": "NAP-DESCONOCIDO",
+        "x": -68.0867,
+        "y": -16.5366,
+        "ultima": 1753847390
+    },
+    "P11_giovannatambolaura": {
+        "nombre": "P11_giovannatambolaura",
+        "pppoe": "P11_giovannatambolaura",
+        "ip": "",
+        "estado": "offline",
+        "nap": "NAP-DESCONOCIDO",
+        "x": 131,
+        "y": -16.5091,
+        "ultima": 1751984988
+    },
+    "P1-freddylimachi": {
+        "nombre": "P1-freddylimachi",
+        "pppoe": "P1-freddylimachi",
+        "ip": "172.171.1.17",
+        "estado": "online",
+        "nap": "NAP-DESCONOCIDO",
+        "x": -68.09469999999999,
+        "y": -16.453,
+        "ultima": 1753847390
+    },
+    "P7_herminiocuareticaseres": {
+        "nombre": "P7_herminiocuareticaseres",
+        "pppoe": "P7_herminiocuareticaseres",
+        "ip": "172.171.3.249",
+        "estado": "online",
+        "nap": "NAP-DESCONOCIDO",
+        "x": -68.16279999999999,
+        "y": -16.5122,
+        "ultima": 1753847390
+    },
+    "P5-freddyblancomurillo": {
+        "nombre": "P5-freddyblancomurillo",
+        "pppoe": "P5-freddyblancomurillo",
+        "ip": "",
+        "estado": "offline",
+        "nap": "NAP-DESCONOCIDO",
+        "x": 173,
+        "y": -16.4819,
+        "ultima": 1752669199
+    },
+    "P11_marianomachacahuanca": {
+        "nombre": "P11_marianomachacahuanca",
+        "pppoe": "P11_marianomachacahuanca",
+        "ip": "",
+        "estado": "offline",
+        "nap": "NAP-DESCONOCIDO",
+        "x": -68.17349999999999,
+        "y": -16.489,
+        "ultima": 1753403634
+    },
+    "P_ kevinjhonnyramosajno": {
+        "nombre": "P_ kevinjhonnyramosajno",
+        "pppoe": "P_ kevinjhonnyramosajno",
+        "ip": "172.171.3.232",
+        "estado": "online",
+        "nap": "NAP-DESCONOCIDO",
+        "x": -68.1065,
+        "y": -16.505,
+        "ultima": 1753847390
+    },
+    "P6-miriamclaramacuchapi": {
+        "nombre": "P6-miriamclaramacuchapi",
+        "pppoe": "P6-miriamclaramacuchapi",
+        "ip": "",
+        "estado": "offline",
+        "nap": "NAP-DESCONOCIDO",
+        "x": -68.1374,
+        "y": -16.4665,
+        "ultima": 1751302538
+    },
+    "P6-pasesaherrera": {
+        "nombre": "P6-pasesaherrera",
+        "pppoe": "P6-pasesaherrera",
+        "ip": "172.171.0.47",
+        "estado": "online",
+        "nap": "NAP-DESCONOCIDO",
+        "x": 168,
+        "y": -16.4582,
+        "ultima": 1753847390
+    },
+    "P10_angelugarteyujra": {
+        "nombre": "P10_angelugarteyujra",
+        "pppoe": "P10_angelugarteyujra",
+        "ip": "172.171.3.178",
+        "estado": "online",
+        "nap": "NAP-DESCONOCIDO",
+        "x": -68.08229999999999,
+        "y": -16.4658,
+        "ultima": 1753847390
+    },
+    "P7_melinayhovanahuallpa": {
+        "nombre": "P7_melinayhovanahuallpa",
+        "pppoe": "P7_melinayhovanahuallpa",
+        "ip": "172.171.3.179",
+        "estado": "online",
+        "nap": "NAP-DESCONOCIDO",
+        "x": 124,
+        "y": -16.4779,
+        "ultima": 1753847390
+    },
+    "P3_angelicajhulizacanaviri": {
+        "nombre": "P3_angelicajhulizacanaviri",
+        "pppoe": "P3_angelicajhulizacanaviri",
+        "ip": "172.171.3.12",
+        "estado": "online",
+        "nap": "NAP-DESCONOCIDO",
+        "x": -68.1092,
+        "y": -16.457,
+        "ultima": 1753847390
+    },
+    "P8-oliviacondoripoma": {
+        "nombre": "P8-oliviacondoripoma",
+        "pppoe": "P8-oliviacondoripoma",
+        "ip": "",
+        "estado": "offline",
+        "nap": "NAP-DESCONOCIDO",
+        "x": 158,
+        "y": -16.5099,
+        "ultima": 1751327817
+    },
+    "P5_franciscavizaluquecocarico": {
+        "nombre": "P5_franciscavizaluquecocarico",
+        "pppoe": "P5_franciscavizaluquecocarico",
+        "ip": "172.171.3.19",
+        "estado": "online",
+        "nap": "NAP-DESCONOCIDO",
+        "x": -68.17439999999999,
+        "y": -16.4647,
+        "ultima": 1753847390
+    },
+    "P2_leticiablanconoa": {
+        "nombre": "P2_leticiablanconoa",
+        "pppoe": "P2_leticiablanconoa",
+        "ip": "172.171.3.16",
+        "estado": "online",
+        "nap": "NAP-DESCONOCIDO",
+        "x": -68.08659999999999,
+        "y": -16.4739,
+        "ultima": 1753847390
+    },
+    "P4_ivanmitalima": {
+        "nombre": "P4_ivanmitalima",
+        "pppoe": "P4_ivanmitalima",
+        "ip": "",
+        "estado": "offline",
+        "nap": "NAP-DESCONOCIDO",
+        "x": -68.1579,
+        "y": -16.5225,
+        "ultima": 1752185716
+    },
+    "P8_rodolfotorrezyana": {
+        "nombre": "P8_rodolfotorrezyana",
+        "pppoe": "P8_rodolfotorrezyana",
+        "ip": "172.171.3.23",
+        "estado": "online",
+        "nap": "NAP-DESCONOCIDO",
+        "x": -68.12769999999999,
+        "y": -16.5167,
+        "ultima": 1753847390
+    },
+    "P6_lidiavillazantisusa": {
+        "nombre": "P6_lidiavillazantisusa",
+        "pppoe": "P6_lidiavillazantisusa",
+        "ip": "",
+        "estado": "offline",
+        "nap": "NAP-DESCONOCIDO",
+        "x": -68.14,
+        "y": -16.5009,
+        "ultima": 1753557519
+    },
+    "P8_berthamarisolsillo": {
+        "nombre": "P8_berthamarisolsillo",
+        "pppoe": "P8_berthamarisolsillo",
+        "ip": "172.171.3.104",
+        "estado": "online",
+        "nap": "NAP-DESCONOCIDO",
+        "x": 177,
+        "y": -16.4977,
+        "ultima": 1753847390
+    },
+    "P8_basiliamamanilaruta": {
+        "nombre": "P8_basiliamamanilaruta",
+        "pppoe": "P8_basiliamamanilaruta",
+        "ip": "172.171.3.30",
+        "estado": "online",
+        "nap": "NAP-DESCONOCIDO",
+        "x": -68.09169999999999,
+        "y": -16.517,
+        "ultima": 1753847390
+    },
+    "P4_juansilveriocuarete": {
+        "nombre": "P4_juansilveriocuarete",
+        "pppoe": "P4_juansilveriocuarete",
+        "ip": "172.171.3.31",
+        "estado": "online",
+        "nap": "NAP-DESCONOCIDO",
+        "x": -68.15419999999999,
+        "y": -16.4677,
+        "ultima": 1753847390
+    },
+    "P3_mariacristinamamani": {
+        "nombre": "P3_mariacristinamamani",
+        "pppoe": "P3_mariacristinamamani",
+        "ip": "172.171.3.32",
+        "estado": "online",
+        "nap": "NAP-DESCONOCIDO",
+        "x": -68.1686,
+        "y": -16.506,
+        "ultima": 1753847390
+    },
+    "P8-hilarioespinozachambi": {
+        "nombre": "P8-hilarioespinozachambi",
+        "pppoe": "P8-hilarioespinozachambi",
+        "ip": "",
+        "estado": "offline",
+        "nap": "NAP-DESCONOCIDO",
+        "x": -68.1746,
+        "y": -16.4891,
+        "ultima": 1752754070
+    },
+    "P7_alexhuallpamendoza": {
+        "nombre": "P7_alexhuallpamendoza",
+        "pppoe": "P7_alexhuallpamendoza",
+        "ip": "172.171.2.4",
+        "estado": "online",
+        "nap": "NAP-DESCONOCIDO",
+        "x": -68.1433,
+        "y": -16.5325,
+        "ultima": 1753847390
+    },
+    "P5_erickatitocondori": {
+        "nombre": "P5_erickatitocondori",
+        "pppoe": "P5_erickatitocondori",
+        "ip": "172.171.3.36",
+        "estado": "online",
+        "nap": "NAP-DESCONOCIDO",
+        "x": -68.16159999999999,
+        "y": -16.4687,
+        "ultima": 1753847390
+    },
+    "P11_oliviapomahuanca": {
+        "nombre": "P11_oliviapomahuanca",
+        "pppoe": "P11_oliviapomahuanca",
+        "ip": "",
+        "estado": "offline",
+        "nap": "NAP-DESCONOCIDO",
+        "x": -68.1207,
+        "y": -16.4507,
+        "ultima": 1752769570
+    },
+    "P10_berthacondorihuasco": {
+        "nombre": "P10_berthacondorihuasco",
+        "pppoe": "P10_berthacondorihuasco",
+        "ip": "",
+        "estado": "offline",
+        "nap": "NAP-DESCONOCIDO",
+        "x": -68.1081,
+        "y": -16.4773,
+        "ultima": 1751387141
+    },
+    "P7natividadcolquequispe": {
+        "nombre": "P7natividadcolquequispe",
+        "pppoe": "P7natividadcolquequispe",
+        "ip": "172.171.3.250",
+        "estado": "online",
+        "nap": "NAP-DESCONOCIDO",
+        "x": -68.1146,
+        "y": -16.5402,
+        "ultima": 1753847390
+    },
+    "P3_victorquispecalsina": {
+        "nombre": "P3_victorquispecalsina",
+        "pppoe": "P3_victorquispecalsina",
+        "ip": "172.171.1.221",
+        "estado": "online",
+        "nap": "NAP-DESCONOCIDO",
+        "x": -68.11269999999999,
+        "y": -16.4669,
+        "ultima": 1753847390
+    },
+    "P1_veronicachallcoaliaga": {
+        "nombre": "P1_veronicachallcoaliaga",
+        "pppoe": "P1_veronicachallcoaliaga",
+        "ip": "172.171.1.214",
+        "estado": "online",
+        "nap": "NAP-DESCONOCIDO",
+        "x": -68.1708,
+        "y": -16.4547,
+        "ultima": 1753847390
+    },
+    "P_hugofloressuxo": {
+        "nombre": "P_hugofloressuxo",
+        "pppoe": "P_hugofloressuxo",
+        "ip": "",
+        "estado": "offline",
+        "nap": "NAP-DESCONOCIDO",
+        "x": 101,
+        "y": -16.4812,
+        "ultima": 1753436690
+    },
+    "P11-walterchuratachambi": {
+        "nombre": "P11-walterchuratachambi",
+        "pppoe": "P11-walterchuratachambi",
+        "ip": "172.171.3.180",
+        "estado": "online",
+        "nap": "NAP-DESCONOCIDO",
+        "x": 121,
+        "y": -16.5181,
+        "ultima": 1753847390
+    },
+    "P_emiliopedro": {
+        "nombre": "P_emiliopedro",
+        "pppoe": "P_emiliopedro",
+        "ip": "172.171.2.86",
+        "estado": "online",
+        "nap": "NAP-DESCONOCIDO",
+        "x": -68.1211,
+        "y": -16.498,
+        "ultima": 1753847390
+    },
+    "P_emiliopedrocoaquir": {
+        "nombre": "P_emiliopedrocoaquir",
+        "pppoe": "P_emiliopedrocoaquir",
+        "ip": "",
+        "estado": "offline",
+        "nap": "NAP-DESCONOCIDO",
+        "x": -68.0911,
+        "y": -16.4598,
+        "ultima": 1751731037
+    },
+    "P2_ciprianocallizayayana": {
+        "nombre": "P2_ciprianocallizayayana",
+        "pppoe": "P2_ciprianocallizayayana",
+        "ip": "172.171.3.183",
+        "estado": "online",
+        "nap": "NAP-DESCONOCIDO",
+        "x": 125,
+        "y": -16.4597,
+        "ultima": 1753847390
+    },
+    "P8_wilmariberaquispe": {
+        "nombre": "P8_wilmariberaquispe",
+        "pppoe": "P8_wilmariberaquispe",
+        "ip": "172.171.2.60",
+        "estado": "online",
+        "nap": "NAP-DESCONOCIDO",
+        "x": -68.1075,
+        "y": -16.4876,
+        "ultima": 1753847390
+    },
+    "P4_davidchoquehuancaquispe": {
+        "nombre": "P4_davidchoquehuancaquispe",
+        "pppoe": "P4_davidchoquehuancaquispe",
+        "ip": "172.171.1.31",
+        "estado": "online",
+        "nap": "NAP-DESCONOCIDO",
+        "x": -68.1052,
+        "y": -16.4996,
+        "ultima": 1753847390
+    },
+    "P4_franklinjhonnymamani": {
+        "nombre": "P4_franklinjhonnymamani",
+        "pppoe": "P4_franklinjhonnymamani",
+        "ip": "172.171.2.14",
+        "estado": "online",
+        "nap": "NAP-DESCONOCIDO",
+        "x": -68.09219999999999,
+        "y": -16.4517,
+        "ultima": 1753847390
+    },
+    "P8_javiersanchesquispe": {
+        "nombre": "P8_javiersanchesquispe",
+        "pppoe": "P8_javiersanchesquispe",
+        "ip": "172.171.3.184",
+        "estado": "online",
+        "nap": "NAP-DESCONOCIDO",
+        "x": 176,
+        "y": -16.5094,
+        "ultima": 1753847390
+    },
+    "P2_enriquehidalgocamilohuanca": {
+        "nombre": "P2_enriquehidalgocamilohuanca",
+        "pppoe": "P2_enriquehidalgocamilohuanca",
+        "ip": "172.171.2.29",
+        "estado": "online",
+        "nap": "NAP-DESCONOCIDO",
+        "x": -68.1664,
+        "y": -16.5351,
+        "ultima": 1753847390
+    },
+    "P1_jhoselinmilenasamochurata": {
+        "nombre": "P1_jhoselinmilenasamochurata",
+        "pppoe": "P1_jhoselinmilenasamochurata",
+        "ip": "172.171.1.222",
+        "estado": "online",
+        "nap": "NAP-DESCONOCIDO",
+        "x": -68.1459,
+        "y": -16.4948,
+        "ultima": 1753847390
+    },
+    "P2_lisaquispemamani": {
+        "nombre": "P2_lisaquispemamani",
+        "pppoe": "P2_lisaquispemamani",
+        "ip": "172.171.1.1",
+        "estado": "online",
+        "nap": "NAP-DESCONOCIDO",
+        "x": -68.14009999999999,
+        "y": -16.5332,
+        "ultima": 1753847390
+    },
+    "P3_rolandomachacahuayhua": {
+        "nombre": "P3_rolandomachacahuayhua",
+        "pppoe": "P3_rolandomachacahuayhua",
+        "ip": "172.171.3.2",
+        "estado": "online",
+        "nap": "NAP-DESCONOCIDO",
+        "x": -68.0972,
+        "y": -16.5305,
+        "ultima": 1753847390
+    },
+    "P4_jaimekunoticona": {
+        "nombre": "P4_jaimekunoticona",
+        "pppoe": "P4_jaimekunoticona",
+        "ip": "172.171.1.235",
+        "estado": "online",
+        "nap": "NAP-DESCONOCIDO",
+        "x": -68.1199,
+        "y": -16.4993,
+        "ultima": 1753847390
+    },
+    "P2_mayonyleon": {
+        "nombre": "P2_mayonyleon",
+        "pppoe": "P2_mayonyleon",
+        "ip": "172.171.1.225",
+        "estado": "online",
+        "nap": "NAP-DESCONOCIDO",
+        "x": -68.11059999999999,
+        "y": -16.5084,
+        "ultima": 1753847390
+    },
+    "P2_everwilsonalarcon": {
+        "nombre": "P2_everwilsonalarcon",
+        "pppoe": "P2_everwilsonalarcon",
+        "ip": "",
+        "estado": "offline",
+        "nap": "NAP-DESCONOCIDO",
+        "x": -68.08019999999999,
+        "y": -16.5074,
+        "ultima": 1752025410
+    },
+    "P8_josemanuelhuayhua": {
+        "nombre": "P8_josemanuelhuayhua",
+        "pppoe": "P8_josemanuelhuayhua",
+        "ip": "",
+        "estado": "offline",
+        "nap": "NAP-DESCONOCIDO",
+        "x": -68.10629999999999,
+        "y": -16.4951,
+        "ultima": 1751605692
+    },
+    "P7_pascualhuancasumi": {
+        "nombre": "P7_pascualhuancasumi",
+        "pppoe": "P7_pascualhuancasumi",
+        "ip": "",
+        "estado": "offline",
+        "nap": "NAP-DESCONOCIDO",
+        "x": -68.13109999999999,
+        "y": -16.5095,
+        "ultima": 1751835263
+    },
+    "P8_alvaromendozalima": {
+        "nombre": "P8_alvaromendozalima",
+        "pppoe": "P8_alvaromendozalima",
+        "ip": "",
+        "estado": "offline",
+        "nap": "NAP-DESCONOCIDO",
+        "x": -68.1571,
+        "y": -16.4574,
+        "ultima": 1751765984
+    },
+    "P11_freddyillimanimerlo": {
+        "nombre": "P11_freddyillimanimerlo",
+        "pppoe": "P11_freddyillimanimerlo",
+        "ip": "172.171.1.158",
+        "estado": "online",
+        "nap": "NAP-DESCONOCIDO",
+        "x": -68.125,
+        "y": -16.5189,
+        "ultima": 1753847390
+    },
+    "P9_juanvilaquispe": {
+        "nombre": "P9_juanvilaquispe",
+        "pppoe": "P9_juanvilaquispe",
+        "ip": "172.171.3.8",
+        "estado": "online",
+        "nap": "NAP-DESCONOCIDO",
+        "x": 138,
+        "y": -16.4738,
+        "ultima": 1753847390
+    },
+    "P8_jhonatanquispeloza": {
+        "nombre": "P8_jhonatanquispeloza",
+        "pppoe": "P8_jhonatanquispeloza",
+        "ip": "",
+        "estado": "offline",
+        "nap": "NAP-DESCONOCIDO",
+        "x": -68.15719999999999,
+        "y": -16.5418,
+        "ultima": 1751386859
+    },
+    "P4_gregoriohuanacomayhua": {
+        "nombre": "P4_gregoriohuanacomayhua",
+        "pppoe": "P4_gregoriohuanacomayhua",
+        "ip": "",
+        "estado": "offline",
+        "nap": "NAP-DESCONOCIDO",
+        "x": -68.1528,
+        "y": -16.5341,
+        "ultima": 1752694747
+    },
+    "P2_germancahuapazaarismendey": {
+        "nombre": "P2_germancahuapazaarismendey",
+        "pppoe": "P2_germancahuapazaarismendey",
+        "ip": "",
+        "estado": "offline",
+        "nap": "NAP-DESCONOCIDO",
+        "x": -68.0893,
+        "y": -16.51,
+        "ultima": 1753095235
+    },
+    "P3_edgarmoralesyujra": {
+        "nombre": "P3_edgarmoralesyujra",
+        "pppoe": "P3_edgarmoralesyujra",
+        "ip": "",
+        "estado": "offline",
+        "nap": "NAP-DESCONOCIDO",
+        "x": -68.0925,
+        "y": -16.5186,
+        "ultima": 1752357862
+    },
+    "P3_petronapomaripoma": {
+        "nombre": "P3_petronapomaripoma",
+        "pppoe": "P3_petronapomaripoma",
+        "ip": "172.171.3.133",
+        "estado": "online",
+        "nap": "NAP-DESCONOCIDO",
+        "x": -68.0974,
+        "y": -16.5385,
+        "ultima": 1753847390
+    },
+    "P3_joseluiscalle": {
+        "nombre": "P3_joseluiscalle",
+        "pppoe": "P3_joseluiscalle",
+        "ip": "172.171.3.94",
+        "estado": "online",
+        "nap": "NAP-DESCONOCIDO",
+        "x": -68.1694,
+        "y": -16.4911,
+        "ultima": 1753847390
+    },
+    "P7_carlosantoniolimahuanca": {
+        "nombre": "P7_carlosantoniolimahuanca",
+        "pppoe": "P7_carlosantoniolimahuanca",
+        "ip": "172.171.3.138",
+        "estado": "online",
+        "nap": "NAP-DESCONOCIDO",
+        "x": -68.1502,
+        "y": -16.4595,
+        "ultima": 1753847390
+    },
+    "P7_maritzaparipinto": {
+        "nombre": "P7_maritzaparipinto",
+        "pppoe": "P7_maritzaparipinto",
+        "ip": "172.171.0.69",
+        "estado": "online",
+        "nap": "NAP-DESCONOCIDO",
+        "x": -68.0955,
+        "y": -16.487,
+        "ultima": 1753847390
+    },
+    "P7-freddydanielnaolimachi": {
+        "nombre": "P7-freddydanielnaolimachi",
+        "pppoe": "P7-freddydanielnaolimachi",
+        "ip": "172.171.3.137",
+        "estado": "online",
+        "nap": "NAP-DESCONOCIDO",
+        "x": 149,
+        "y": -16.5475,
+        "ultima": 1753847390
+    },
+    "P9_marianelaclaudiarosasmiranda": {
+        "nombre": "P9_marianelaclaudiarosasmiranda",
+        "pppoe": "P9_marianelaclaudiarosasmiranda",
+        "ip": "",
+        "estado": "offline",
+        "nap": "NAP-DESCONOCIDO",
+        "x": -68.11439999999999,
+        "y": -16.5332,
+        "ultima": 1752280425
+    },
+    "P4_clementeramosquispe": {
+        "nombre": "P4_clementeramosquispe",
+        "pppoe": "P4_clementeramosquispe",
+        "ip": "172.171.3.121",
+        "estado": "online",
+        "nap": "NAP-DESCONOCIDO",
+        "x": -68.14659999999999,
+        "y": -16.5068,
+        "ultima": 1753847390
+    },
+    "P8_guimeraruquipamacias": {
+        "nombre": "P8_guimeraruquipamacias",
+        "pppoe": "P8_guimeraruquipamacias",
+        "ip": "",
+        "estado": "offline",
+        "nap": "NAP-DESCONOCIDO",
+        "x": -68.1061,
+        "y": -16.5173,
+        "ultima": 1751694417
+    },
+    "P9_juanaureliojustoquispe": {
+        "nombre": "P9_juanaureliojustoquispe",
+        "pppoe": "P9_juanaureliojustoquispe",
+        "ip": "",
+        "estado": "offline",
+        "nap": "NAP-DESCONOCIDO",
+        "x": -68.1498,
+        "y": -16.4735,
+        "ultima": 1751618428
+    },
+    "P2_wilmaticonaguerra": {
+        "nombre": "P2_wilmaticonaguerra",
+        "pppoe": "P2_wilmaticonaguerra",
+        "ip": "172.171.3.50",
+        "estado": "online",
+        "nap": "NAP-DESCONOCIDO",
+        "x": -68.11139999999999,
+        "y": -16.4597,
+        "ultima": 1753847390
+    },
+    "P8_ruthgutierrezquispe": {
+        "nombre": "P8_ruthgutierrezquispe",
+        "pppoe": "P8_ruthgutierrezquispe",
+        "ip": "",
+        "estado": "offline",
+        "nap": "NAP-DESCONOCIDO",
+        "x": -68.13629999999999,
+        "y": -16.5223,
+        "ultima": 1751705847
+    },
+    "P7_oscarchavezchoque": {
+        "nombre": "P7_oscarchavezchoque",
+        "pppoe": "P7_oscarchavezchoque",
+        "ip": "172.171.3.139",
+        "estado": "online",
+        "nap": "NAP-DESCONOCIDO",
+        "x": -68.1412,
+        "y": -16.4566,
+        "ultima": 1753847390
+    },
+    "P4_marthatacuarisalazar": {
+        "nombre": "P4_marthatacuarisalazar",
+        "pppoe": "P4_marthatacuarisalazar",
+        "ip": "172.171.3.132",
+        "estado": "online",
+        "nap": "NAP-DESCONOCIDO",
+        "x": 111,
+        "y": -16.4578,
+        "ultima": 1753847390
+    },
+    "P5_felipaquispeapaza": {
+        "nombre": "P5_felipaquispeapaza",
+        "pppoe": "P5_felipaquispeapaza",
+        "ip": "172.171.3.80",
+        "estado": "online",
+        "nap": "NAP-DESCONOCIDO",
+        "x": -68.08109999999999,
+        "y": -16.5276,
+        "ultima": 1753847390
+    },
+    "P9_henrycalsinanina": {
+        "nombre": "P9_henrycalsinanina",
+        "pppoe": "P9_henrycalsinanina",
+        "ip": "172.171.3.158",
+        "estado": "online",
+        "nap": "NAP-DESCONOCIDO",
+        "x": -68.09729999999999,
+        "y": -16.4527,
+        "ultima": 1753847390
+    },
+    "P9_blancoalejoojeda": {
+        "nombre": "P9_blancoalejoojeda",
+        "pppoe": "P9_blancoalejoojeda",
+        "ip": "172.171.1.238",
+        "estado": "online",
+        "nap": "NAP-DESCONOCIDO",
+        "x": 139,
+        "y": -16.5409,
+        "ultima": 1753847390
+    },
+    "P9_rebecaquispequispe": {
+        "nombre": "P9_rebecaquispequispe",
+        "pppoe": "P9_rebecaquispequispe",
+        "ip": "172.171.3.161",
+        "estado": "online",
+        "nap": "NAP-DESCONOCIDO",
+        "x": 100,
+        "y": -16.476,
+        "ultima": 1753847390
+    },
+    "P2_jaimequispechavez": {
+        "nombre": "P2_jaimequispechavez",
+        "pppoe": "P2_jaimequispechavez",
+        "ip": "172.171.3.147",
+        "estado": "online",
+        "nap": "NAP-DESCONOCIDO",
+        "x": 147,
+        "y": -16.4803,
+        "ultima": 1753847390
+    },
+    "P1yulizaquispealanoca": {
+        "nombre": "P1yulizaquispealanoca",
+        "pppoe": "P1yulizaquispealanoca",
+        "ip": "172.171.3.155",
+        "estado": "online",
+        "nap": "NAP-DESCONOCIDO",
+        "x": -68.1741,
+        "y": -16.5098,
+        "ultima": 1753847390
+    },
+    "P11_judithyesicalinares": {
+        "nombre": "P11_judithyesicalinares",
+        "pppoe": "P11_judithyesicalinares",
+        "ip": "172.171.3.6",
+        "estado": "online",
+        "nap": "NAP-DESCONOCIDO",
+        "x": -68.1297,
+        "y": -16.4782,
+        "ultima": 1753847390
+    },
+    "P11_eloychurayauli": {
+        "nombre": "P11_eloychurayauli",
+        "pppoe": "P11_eloychurayauli",
+        "ip": "",
+        "estado": "offline",
+        "nap": "NAP-DESCONOCIDO",
+        "x": -68.1355,
+        "y": -16.4654,
+        "ultima": 1753066398
+    },
+    "P_eusebiofernanadezpenaco": {
+        "nombre": "P_eusebiofernanadezpenaco",
+        "pppoe": "P_eusebiofernanadezpenaco",
+        "ip": "172.171.3.170",
+        "estado": "online",
+        "nap": "NAP-DESCONOCIDO",
+        "x": -68.1614,
+        "y": -16.5285,
+        "ultima": 1753847390
+    },
+    "P9_deliaximenamamanialiaga": {
+        "nombre": "P9_deliaximenamamanialiaga",
+        "pppoe": "P9_deliaximenamamanialiaga",
+        "ip": "",
+        "estado": "offline",
+        "nap": "NAP-DESCONOCIDO",
+        "x": -68.0915,
+        "y": -16.4959,
+        "ultima": 1751288707
+    },
+    "P11_r9naldgustavobustoscruz": {
+        "nombre": "P11_r9naldgustavobustoscruz",
+        "pppoe": "P11_r9naldgustavobustoscruz",
+        "ip": "172.171.3.21",
+        "estado": "online",
+        "nap": "NAP-DESCONOCIDO",
+        "x": -68.10329999999999,
+        "y": -16.468,
+        "ultima": 1753847390
+    },
+    "P4_crispinyupanquicusi": {
+        "nombre": "P4_crispinyupanquicusi",
+        "pppoe": "P4_crispinyupanquicusi",
+        "ip": "172.171.3.141",
+        "estado": "online",
+        "nap": "NAP-DESCONOCIDO",
+        "x": -68.0837,
+        "y": -16.4705,
+        "ultima": 1753847390
+    },
+    "P4_eloycocaricoapaza": {
+        "nombre": "P4_eloycocaricoapaza",
+        "pppoe": "P4_eloycocaricoapaza",
+        "ip": "172.171.3.163",
+        "estado": "online",
+        "nap": "NAP-DESCONOCIDO",
+        "x": -68.0839,
+        "y": -16.517,
+        "ultima": 1753847390
+    },
+    "P11_natividadsorialarico": {
+        "nombre": "P11_natividadsorialarico",
+        "pppoe": "P11_natividadsorialarico",
+        "ip": "",
+        "estado": "offline",
+        "nap": "NAP-DESCONOCIDO",
+        "x": -68.13199999999999,
+        "y": -16.4633,
+        "ultima": 1751708754
+    },
+    "P11_rosmerysinaniquispe": {
+        "nombre": "P11_rosmerysinaniquispe",
+        "pppoe": "P11_rosmerysinaniquispe",
+        "ip": "172.171.3.148",
+        "estado": "online",
+        "nap": "NAP-DESCONOCIDO",
+        "x": -68.1292,
+        "y": -16.5234,
+        "ultima": 1753847390
+    },
+    "P6_alfredoquispecallisaya": {
+        "nombre": "P6_alfredoquispecallisaya",
+        "pppoe": "P6_alfredoquispecallisaya",
+        "ip": "",
+        "estado": "offline",
+        "nap": "NAP-DESCONOCIDO",
+        "x": -68.0957,
+        "y": -16.4882,
+        "ultima": 1752739711
+    },
+    "P4_jhonnyteodorochambi": {
+        "nombre": "P4_jhonnyteodorochambi",
+        "pppoe": "P4_jhonnyteodorochambi",
+        "ip": "172.171.3.118",
+        "estado": "online",
+        "nap": "NAP-DESCONOCIDO",
+        "x": 173,
+        "y": -16.4684,
+        "ultima": 1753847390
+    },
+    "P11_reynaldochurachino": {
+        "nombre": "P11_reynaldochurachino",
+        "pppoe": "P11_reynaldochurachino",
+        "ip": "",
+        "estado": "offline",
+        "nap": "NAP-DESCONOCIDO",
+        "x": -68.1745,
+        "y": -16.5231,
+        "ultima": 1752240053
+    },
+    "P11_nellyblancacondori": {
+        "nombre": "P11_nellyblancacondori",
+        "pppoe": "P11_nellyblancacondori",
+        "ip": "172.171.3.18",
+        "estado": "online",
+        "nap": "NAP-DESCONOCIDO",
+        "x": -68.0809,
+        "y": -16.5091,
+        "ultima": 1753847390
+    },
+    "P4_griselangelaalcon": {
+        "nombre": "P4_griselangelaalcon",
+        "pppoe": "P4_griselangelaalcon",
+        "ip": "172.171.3.46",
+        "estado": "online",
+        "nap": "NAP-DESCONOCIDO",
+        "x": -68.1523,
+        "y": -16.5115,
+        "ultima": 1753847390
+    },
+    "P8_ovidiomamanitola": {
+        "nombre": "P8_ovidiomamanitola",
+        "pppoe": "P8_ovidiomamanitola",
+        "ip": "172.171.3.20",
+        "estado": "online",
+        "nap": "NAP-DESCONOCIDO",
+        "x": -68.1608,
+        "y": -16.4583,
+        "ultima": 1753847390
+    },
+    "P6-dayanamamani": {
+        "nombre": "P6-dayanamamani",
+        "pppoe": "P6-dayanamamani",
+        "ip": "172.171.0.39",
+        "estado": "online",
+        "nap": "NAP-DESCONOCIDO",
+        "x": -68.0968,
+        "y": -16.5137,
+        "ultima": 1753847390
+    },
+    "P11-luismiguelbautista": {
+        "nombre": "P11-luismiguelbautista",
+        "pppoe": "P11-luismiguelbautista",
+        "ip": "172.171.3.48",
+        "estado": "online",
+        "nap": "NAP-DESCONOCIDO",
+        "x": -68.1784,
+        "y": -16.4868,
+        "ultima": 1753847390
+    },
+    "P11_germankjarihuanto": {
+        "nombre": "P11_germankjarihuanto",
+        "pppoe": "P11_germankjarihuanto",
+        "ip": "172.171.3.49",
+        "estado": "online",
+        "nap": "NAP-DESCONOCIDO",
+        "x": -68.1257,
+        "y": -16.531,
+        "ultima": 1753847390
+    },
+    "P3_joseclemente": {
+        "nombre": "P3_joseclemente",
+        "pppoe": "P3_joseclemente",
+        "ip": "172.171.3.4",
+        "estado": "online",
+        "nap": "NAP-DESCONOCIDO",
+        "x": -68.0963,
+        "y": -16.4951,
+        "ultima": 1753847390
+    },
+    "P10_lidiavegatorrez": {
+        "nombre": "P10_lidiavegatorrez",
+        "pppoe": "P10_lidiavegatorrez",
+        "ip": "172.171.3.54",
+        "estado": "online",
+        "nap": "NAP-DESCONOCIDO",
+        "x": -68.14229999999999,
+        "y": -16.4519,
+        "ultima": 1753847390
+    },
+    "P8_berthamarcelinaquispemarca": {
+        "nombre": "P8_berthamarcelinaquispemarca",
+        "pppoe": "P8_berthamarcelinaquispemarca",
+        "ip": "172.171.3.55",
+        "estado": "online",
+        "nap": "NAP-DESCONOCIDO",
+        "x": -68.1537,
+        "y": -16.5219,
+        "ultima": 1753847390
+    },
+    "P6_efriananamoromachaca": {
+        "nombre": "P6_efriananamoromachaca",
+        "pppoe": "P6_efriananamoromachaca",
+        "ip": "172.171.3.56",
+        "estado": "online",
+        "nap": "NAP-DESCONOCIDO",
+        "x": -68.14439999999999,
+        "y": -16.5291,
+        "ultima": 1753847390
+    },
+    "P10_samuelaliagahuacoto": {
+        "nombre": "P10_samuelaliagahuacoto",
+        "pppoe": "P10_samuelaliagahuacoto",
+        "ip": "172.171.1.19",
+        "estado": "online",
+        "nap": "NAP-DESCONOCIDO",
+        "x": -68.1231,
+        "y": -16.4758,
+        "ultima": 1753847390
+    },
+    "P1-jorgemamanicoarite": {
+        "nombre": "P1-jorgemamanicoarite",
+        "pppoe": "P1-jorgemamanicoarite",
+        "ip": "172.171.3.61",
+        "estado": "online",
+        "nap": "NAP-DESCONOCIDO",
+        "x": -68.1348,
+        "y": -16.5386,
+        "ultima": 1753847390
+    },
+    "P5_rosaelenaramosquispe": {
+        "nombre": "P5_rosaelenaramosquispe",
+        "pppoe": "P5_rosaelenaramosquispe",
+        "ip": "172.171.3.220",
+        "estado": "online",
+        "nap": "NAP-DESCONOCIDO",
+        "x": -68.15379999999999,
+        "y": -16.5299,
+        "ultima": 1753847390
+    },
+    "P3_marcialalarconramos": {
+        "nombre": "P3_marcialalarconramos",
+        "pppoe": "P3_marcialalarconramos",
+        "ip": "",
+        "estado": "offline",
+        "nap": "NAP-DESCONOCIDO",
+        "x": 146,
+        "y": -16.4502,
+        "ultima": 1752689065
+    },
+    "P3_jonathanmamaniparra": {
+        "nombre": "P3_jonathanmamaniparra",
+        "pppoe": "P3_jonathanmamaniparra",
+        "ip": "",
+        "estado": "offline",
+        "nap": "NAP-DESCONOCIDO",
+        "x": -68.1552,
+        "y": -16.4594,
+        "ultima": 1751907311
+    },
+    "P8_juanquispegutierrez": {
+        "nombre": "P8_juanquispegutierrez",
+        "pppoe": "P8_juanquispegutierrez",
+        "ip": "172.171.3.83",
+        "estado": "online",
+        "nap": "NAP-DESCONOCIDO",
+        "x": -68.091,
+        "y": -16.5369,
+        "ultima": 1753847390
+    },
+    "P6-sabinochuraibanez": {
+        "nombre": "P6-sabinochuraibanez",
+        "pppoe": "P6-sabinochuraibanez",
+        "ip": "172.171.3.67",
+        "estado": "online",
+        "nap": "NAP-DESCONOCIDO",
+        "x": -68.178,
+        "y": -16.4687,
+        "ultima": 1753847390
+    },
+    "P_carolinacondoriramos": {
+        "nombre": "P_carolinacondoriramos",
+        "pppoe": "P_carolinacondoriramos",
+        "ip": "172.171.3.69",
+        "estado": "online",
+        "nap": "NAP-DESCONOCIDO",
+        "x": -68.11919999999999,
+        "y": -16.4547,
+        "ultima": 1753847390
+    },
+    "P4_vicentequenta": {
+        "nombre": "P4_vicentequenta",
+        "pppoe": "P4_vicentequenta",
+        "ip": "172.171.3.70",
+        "estado": "online",
+        "nap": "NAP-DESCONOCIDO",
+        "x": -68.0938,
+        "y": -16.5076,
+        "ultima": 1753847390
+    },
+    "P3_joseantonioalanocahuanca": {
+        "nombre": "P3_joseantonioalanocahuanca",
+        "pppoe": "P3_joseantonioalanocahuanca",
+        "ip": "172.171.3.76",
+        "estado": "online",
+        "nap": "NAP-DESCONOCIDO",
+        "x": -68.17569999999999,
+        "y": -16.4518,
+        "ultima": 1753847390
+    },
+    "P3_willyedgarvichinicalamani": {
+        "nombre": "P3_willyedgarvichinicalamani",
+        "pppoe": "P3_willyedgarvichinicalamani",
+        "ip": "",
+        "estado": "offline",
+        "nap": "NAP-DESCONOCIDO",
+        "x": -68.08879999999999,
+        "y": -16.4594,
+        "ultima": 1752096245
+    },
+    "P7_juliocesarapazachamb": {
+        "nombre": "P7_juliocesarapazachamb",
+        "pppoe": "P7_juliocesarapazachamb",
+        "ip": "172.171.2.11",
+        "estado": "online",
+        "nap": "NAP-DESCONOCIDO",
+        "x": -68.1245,
+        "y": -16.4507,
+        "ultima": 1753847390
+    },
+    "P5_rubenfranzyujraquispe": {
+        "nombre": "P5_rubenfranzyujraquispe",
+        "pppoe": "P5_rubenfranzyujraquispe",
+        "ip": "",
+        "estado": "offline",
+        "nap": "NAP-DESCONOCIDO",
+        "x": -68.1284,
+        "y": -16.4745,
+        "ultima": 1751571515
+    },
+    "P7_marcosapazajumpiri": {
+        "nombre": "P7_marcosapazajumpiri",
+        "pppoe": "P7_marcosapazajumpiri",
+        "ip": "",
+        "estado": "offline",
+        "nap": "NAP-DESCONOCIDO",
+        "x": -68.1492,
+        "y": -16.4677,
+        "ultima": 1753230244
+    },
+    "P6_marcelinoalanocapaucara": {
+        "nombre": "P6_marcelinoalanocapaucara",
+        "pppoe": "P6_marcelinoalanocapaucara",
+        "ip": "172.171.3.88",
+        "estado": "online",
+        "nap": "NAP-DESCONOCIDO",
+        "x": -68.1332,
+        "y": -16.5291,
+        "ultima": 1753847390
+    },
+    "P11-ramirohilari": {
+        "nombre": "P11-ramirohilari",
+        "pppoe": "P11-ramirohilari",
+        "ip": "172.171.3.89",
+        "estado": "online",
+        "nap": "NAP-DESCONOCIDO",
+        "x": -68.1274,
+        "y": -16.5425,
+        "ultima": 1753847390
+    },
+    "P4_aedeeyanamamani": {
+        "nombre": "P4_aedeeyanamamani",
+        "pppoe": "P4_aedeeyanamamani",
+        "ip": "",
+        "estado": "offline",
+        "nap": "NAP-DESCONOCIDO",
+        "x": -68.1614,
+        "y": -16.4829,
+        "ultima": 1751441368
+    },
+    "P8_alfredoluissantallacondori": {
+        "nombre": "P8_alfredoluissantallacondori",
+        "pppoe": "P8_alfredoluissantallacondori",
+        "ip": "172.171.3.131",
+        "estado": "online",
+        "nap": "NAP-DESCONOCIDO",
+        "x": -68.13159999999999,
+        "y": -16.4687,
+        "ultima": 1753847390
+    },
+    "P4_angelcolqueflores": {
+        "nombre": "P4_angelcolqueflores",
+        "pppoe": "P4_angelcolqueflores",
+        "ip": "172.171.3.82",
+        "estado": "online",
+        "nap": "NAP-DESCONOCIDO",
+        "x": -68.1377,
+        "y": -16.5113,
+        "ultima": 1753847390
+    },
+    "P3_henrythorcorani": {
+        "nombre": "P3_henrythorcorani",
+        "pppoe": "P3_henrythorcorani",
+        "ip": "172.171.3.254",
+        "estado": "online",
+        "nap": "NAP-DESCONOCIDO",
+        "x": -68.1227,
+        "y": -16.5055,
+        "ultima": 1753847390
+    },
+    "P2_leteciapomajuanca": {
+        "nombre": "P2_leteciapomajuanca",
+        "pppoe": "P2_leteciapomajuanca",
+        "ip": "172.171.3.103",
+        "estado": "online",
+        "nap": "NAP-DESCONOCIDO",
+        "x": -68.14349999999999,
+        "y": -16.5107,
+        "ultima": 1753847390
+    },
+    "P1-marioquispe": {
+        "nombre": "P1-marioquispe",
+        "pppoe": "P1-marioquispe",
+        "ip": "172.171.3.105",
+        "estado": "online",
+        "nap": "NAP-DESCONOCIDO",
+        "x": -68.1017,
+        "y": -16.5305,
+        "ultima": 1753847390
+    },
+    "P2_faustinoclares": {
+        "nombre": "P2_faustinoclares",
+        "pppoe": "P2_faustinoclares",
+        "ip": "172.171.3.107",
+        "estado": "online",
+        "nap": "NAP-DESCONOCIDO",
+        "x": -68.1789,
+        "y": -16.5139,
+        "ultima": 1753847390
+    },
+    "P11_elenacruzpaco": {
+        "nombre": "P11_elenacruzpaco",
+        "pppoe": "P11_elenacruzpaco",
+        "ip": "172.171.3.108",
+        "estado": "online",
+        "nap": "NAP-DESCONOCIDO",
+        "x": -68.164,
+        "y": -16.4758,
+        "ultima": 1753847390
+    },
+    "P11_exequielcarvajalchoque": {
+        "nombre": "P11_exequielcarvajalchoque",
+        "pppoe": "P11_exequielcarvajalchoque",
+        "ip": "172.171.3.84",
+        "estado": "online",
+        "nap": "NAP-DESCONOCIDO",
+        "x": -68.1022,
+        "y": -16.4677,
+        "ultima": 1753847390
+    },
+    "P3_juancarlosaruquipa": {
+        "nombre": "P3_juancarlosaruquipa",
+        "pppoe": "P3_juancarlosaruquipa",
+        "ip": "172.171.3.111",
+        "estado": "online",
+        "nap": "NAP-DESCONOCIDO",
+        "x": -68.1708,
+        "y": -16.4793,
+        "ultima": 1753847390
+    },
+    "P6_jhonnyfloressalinas": {
+        "nombre": "P6_jhonnyfloressalinas",
+        "pppoe": "P6_jhonnyfloressalinas",
+        "ip": "",
+        "estado": "offline",
+        "nap": "NAP-DESCONOCIDO",
+        "x": -68.1142,
+        "y": -16.5347,
+        "ultima": 1753014075
+    },
+    "P11_eliasmaytasalazar": {
+        "nombre": "P11_eliasmaytasalazar",
+        "pppoe": "P11_eliasmaytasalazar",
+        "ip": "",
+        "estado": "offline",
+        "nap": "NAP-DESCONOCIDO",
+        "x": -68.1292,
+        "y": -16.4889,
+        "ultima": 1753357418
+    },
+    "P4_rodrigotitirico": {
+        "nombre": "P4_rodrigotitirico",
+        "pppoe": "P4_rodrigotitirico",
+        "ip": "172.171.3.201",
+        "estado": "online",
+        "nap": "NAP-DESCONOCIDO",
+        "x": -68.0919,
+        "y": -16.4604,
+        "ultima": 1753847390
+    },
+    "P7_danerflores": {
+        "nombre": "P7_danerflores",
+        "pppoe": "P7_danerflores",
+        "ip": "172.171.1.15",
+        "estado": "online",
+        "nap": "NAP-DESCONOCIDO",
+        "x": -68.1463,
+        "y": -16.5081,
+        "ultima": 1753847390
+    },
+    "P4_edgarorlandocopa": {
+        "nombre": "P4_edgarorlandocopa",
+        "pppoe": "P4_edgarorlandocopa",
+        "ip": "172.171.2.57",
+        "estado": "online",
+        "nap": "NAP-DESCONOCIDO",
+        "x": 108,
+        "y": -16.5336,
+        "ultima": 1753847390
+    },
+    "P11_victorhugocallisaya": {
+        "nombre": "P11_victorhugocallisaya",
+        "pppoe": "P11_victorhugocallisaya",
+        "ip": "",
+        "estado": "offline",
+        "nap": "NAP-DESCONOCIDO",
+        "x": -68.1039,
+        "y": -16.5027,
+        "ultima": 1751855637
+    },
+    "P4-alanjaviercondori": {
+        "nombre": "P4-alanjaviercondori",
+        "pppoe": "P4-alanjaviercondori",
+        "ip": "172.171.3.124",
+        "estado": "online",
+        "nap": "NAP-DESCONOCIDO",
+        "x": -68.1152,
+        "y": -16.4689,
+        "ultima": 1753847390
+    },
+    "P11_ronaldchoquecorina": {
+        "nombre": "P11_ronaldchoquecorina",
+        "pppoe": "P11_ronaldchoquecorina",
+        "ip": "172.171.1.66",
+        "estado": "online",
+        "nap": "NAP-DESCONOCIDO",
+        "x": -68.13239999999999,
+        "y": -16.5248,
+        "ultima": 1753847390
+    },
+    "P4_walterhugoninamamani": {
+        "nombre": "P4_walterhugoninamamani",
+        "pppoe": "P4_walterhugoninamamani",
+        "ip": "172.171.0.4",
+        "estado": "online",
+        "nap": "NAP-DESCONOCIDO",
+        "x": -68.09729999999999,
+        "y": -16.4861,
+        "ultima": 1753847390
+    },
+    "P11_zenovialuceroticona": {
+        "nombre": "P11_zenovialuceroticona",
+        "pppoe": "P11_zenovialuceroticona",
+        "ip": "",
+        "estado": "offline",
+        "nap": "NAP-DESCONOCIDO",
+        "x": -68.17399999999999,
+        "y": -16.4932,
+        "ultima": 1751940078
+    },
+    "P_yoselincuaritequenta": {
+        "nombre": "P_yoselincuaritequenta",
+        "pppoe": "P_yoselincuaritequenta",
+        "ip": "172.171.0.5",
+        "estado": "online",
+        "nap": "NAP-DESCONOCIDO",
+        "x": -68.15979999999999,
+        "y": -16.4741,
+        "ultima": 1753847390
+    },
+    "P4_Juanguachallaparisaca": {
+        "nombre": "P4_Juanguachallaparisaca",
+        "pppoe": "P4_Juanguachallaparisaca",
+        "ip": "172.171.0.24",
+        "estado": "online",
+        "nap": "NAP-DESCONOCIDO",
+        "x": -68.10929999999999,
+        "y": -16.5242,
+        "ultima": 1753847390
+    },
+    "P8_paulinachurquinacho": {
+        "nombre": "P8_paulinachurquinacho",
+        "pppoe": "P8_paulinachurquinacho",
+        "ip": "",
+        "estado": "offline",
+        "nap": "NAP-DESCONOCIDO",
+        "x": -68.1005,
+        "y": -16.47,
+        "ultima": 1752375276
+    },
+    "P11_felipemamanitola": {
+        "nombre": "P11_felipemamanitola",
+        "pppoe": "P11_felipemamanitola",
+        "ip": "",
+        "estado": "offline",
+        "nap": "NAP-DESCONOCIDO",
+        "x": -68.1458,
+        "y": -16.4621,
+        "ultima": 1751918344
+    },
+    "P4_victoriaquispemamani": {
+        "nombre": "P4_victoriaquispemamani",
+        "pppoe": "P4_victoriaquispemamani",
+        "ip": "",
+        "estado": "offline",
+        "nap": "NAP-DESCONOCIDO",
+        "x": -68.1292,
+        "y": -16.4825,
+        "ultima": 1752206805
+    },
+    "P1_josemamanimamani": {
+        "nombre": "P1_josemamanimamani",
+        "pppoe": "P1_josemamanimamani",
+        "ip": "172.171.0.9",
+        "estado": "online",
+        "nap": "NAP-DESCONOCIDO",
+        "x": -68.10799999999999,
+        "y": -16.5254,
+        "ultima": 1753847390
+    },
+    "P_brayanadamscalleflores": {
+        "nombre": "P_brayanadamscalleflores",
+        "pppoe": "P_brayanadamscalleflores",
+        "ip": "172.171.2.27",
+        "estado": "online",
+        "nap": "NAP-DESCONOCIDO",
+        "x": -68.1584,
+        "y": -16.5479,
+        "ultima": 1753847390
+    },
+    "P1_carloraariascoaquira": {
+        "nombre": "P1_carloraariascoaquira",
+        "pppoe": "P1_carloraariascoaquira",
+        "ip": "172.171.0.11",
+        "estado": "online",
+        "nap": "NAP-DESCONOCIDO",
+        "x": 140,
+        "y": -16.5441,
+        "ultima": 1753847390
+    },
+    "P1_susanaquispevelasco": {
+        "nombre": "P1_susanaquispevelasco",
+        "pppoe": "P1_susanaquispevelasco",
+        "ip": "172.171.0.12",
+        "estado": "online",
+        "nap": "NAP-DESCONOCIDO",
+        "x": -68.1574,
+        "y": -16.5448,
+        "ultima": 1753847390
+    },
+    "P1_betshaalarconsarzuri": {
+        "nombre": "P1_betshaalarconsarzuri",
+        "pppoe": "P1_betshaalarconsarzuri",
+        "ip": "172.171.0.13",
+        "estado": "online",
+        "nap": "NAP-DESCONOCIDO",
+        "x": -68.1322,
+        "y": -16.4841,
+        "ultima": 1753847390
+    },
+    "P_mireambarreracalla": {
+        "nombre": "P_mireambarreracalla",
+        "pppoe": "P_mireambarreracalla",
+        "ip": "",
+        "estado": "offline",
+        "nap": "NAP-DESCONOCIDO",
+        "x": -68.1737,
+        "y": -16.5398,
+        "ultima": 1752269582
+    },
+    "P1_severomamanichavez": {
+        "nombre": "P1_severomamanichavez",
+        "pppoe": "P1_severomamanichavez",
+        "ip": "",
+        "estado": "offline",
+        "nap": "NAP-DESCONOCIDO",
+        "x": -68.1639,
+        "y": -16.5256,
+        "ultima": 1753361632
+    },
+    "P1_israelquispecatari": {
+        "nombre": "P1_israelquispecatari",
+        "pppoe": "P1_israelquispecatari",
+        "ip": "172.171.0.249",
+        "estado": "online",
+        "nap": "NAP-DESCONOCIDO",
+        "x": -68.12509999999999,
+        "y": -16.5069,
+        "ultima": 1753847390
+    },
+    "P1_marceloticonallanos": {
+        "nombre": "P1_marceloticonallanos",
+        "pppoe": "P1_marceloticonallanos",
+        "ip": "172.171.0.16",
+        "estado": "online",
+        "nap": "NAP-DESCONOCIDO",
+        "x": -68.1554,
+        "y": -16.4899,
+        "ultima": 1753847390
+    },
+    "P-freddyfloresquispe": {
+        "nombre": "P-freddyfloresquispe",
+        "pppoe": "P-freddyfloresquispe",
+        "ip": "172.171.0.17",
+        "estado": "online",
+        "nap": "NAP-DESCONOCIDO",
+        "x": -68.1284,
+        "y": -16.4661,
+        "ultima": 1753847390
+    },
+    "P5_alvarolimalucana": {
+        "nombre": "P5_alvarolimalucana",
+        "pppoe": "P5_alvarolimalucana",
+        "ip": "172.171.0.40",
+        "estado": "online",
+        "nap": "NAP-DESCONOCIDO",
+        "x": -68.14909999999999,
+        "y": -16.4839,
+        "ultima": 1753847390
+    },
+    "P1_veronicasinthyamarquezmedrano": {
+        "nombre": "P1_veronicasinthyamarquezmedrano",
+        "pppoe": "P1_veronicasinthyamarquezmedrano",
+        "ip": "",
+        "estado": "offline",
+        "nap": "NAP-DESCONOCIDO",
+        "x": -68.1188,
+        "y": -16.5494,
+        "ultima": 1751572046
+    },
+    "P_felixhuancachoque": {
+        "nombre": "P_felixhuancachoque",
+        "pppoe": "P_felixhuancachoque",
+        "ip": "",
+        "estado": "offline",
+        "nap": "NAP-DESCONOCIDO",
+        "x": -68.0884,
+        "y": -16.4526,
+        "ultima": 1751390202
+    },
+    "P1_vidalluquerojas": {
+        "nombre": "P1_vidalluquerojas",
+        "pppoe": "P1_vidalluquerojas",
+        "ip": "172.171.0.21",
+        "estado": "online",
+        "nap": "NAP-DESCONOCIDO",
+        "x": -68.0966,
+        "y": -16.4565,
+        "ultima": 1753847390
+    },
+    "P1_severocastillomamani": {
+        "nombre": "P1_severocastillomamani",
+        "pppoe": "P1_severocastillomamani",
+        "ip": "172.171.0.22",
+        "estado": "online",
+        "nap": "NAP-DESCONOCIDO",
+        "x": -68.1374,
+        "y": -16.5386,
+        "ultima": 1753847390
+    },
+    "P1_davidsarmientotinta": {
+        "nombre": "P1_davidsarmientotinta",
+        "pppoe": "P1_davidsarmientotinta",
+        "ip": "",
+        "estado": "offline",
+        "nap": "NAP-DESCONOCIDO",
+        "x": 180,
+        "y": -16.5063,
+        "ultima": 1751637554
+    },
+    "P6_marujalaura": {
+        "nombre": "P6_marujalaura",
+        "pppoe": "P6_marujalaura",
+        "ip": "172.171.0.254",
+        "estado": "online",
+        "nap": "NAP-DESCONOCIDO",
+        "x": 144,
+        "y": -16.5154,
+        "ultima": 1753847390
+    },
+    "P1_yhonytintamamani": {
+        "nombre": "P1_yhonytintamamani",
+        "pppoe": "P1_yhonytintamamani",
+        "ip": "172.171.0.225",
+        "estado": "online",
+        "nap": "NAP-DESCONOCIDO",
+        "x": -68.1798,
+        "y": -16.4886,
+        "ultima": 1753847390
+    },
+    "P1_nayelihilarichoquehuanca": {
+        "nombre": "P1_nayelihilarichoquehuanca",
+        "pppoe": "P1_nayelihilarichoquehuanca",
+        "ip": "",
+        "estado": "offline",
+        "nap": "NAP-DESCONOCIDO",
+        "x": -68.09989999999999,
+        "y": -16.4949,
+        "ultima": 1751715138
+    },
+    "P1_manfredmauriciosalasarratia": {
+        "nombre": "P1_manfredmauriciosalasarratia",
+        "pppoe": "P1_manfredmauriciosalasarratia",
+        "ip": "172.171.2.7",
+        "estado": "online",
+        "nap": "NAP-DESCONOCIDO",
+        "x": -68.164,
+        "y": -16.4532,
+        "ultima": 1753847390
+    },
+    "joseluisticonamamani": {
+        "nombre": "joseluisticonamamani",
+        "pppoe": "joseluisticonamamani",
+        "ip": "",
+        "estado": "offline",
+        "nap": "NAP-DESCONOCIDO",
+        "x": -68.11019999999999,
+        "y": -16.5349,
+        "ultima": 1751572834
+    },
+    "P1_ovidiobelisariomamaniyujra": {
+        "nombre": "P1_ovidiobelisariomamaniyujra",
+        "pppoe": "P1_ovidiobelisariomamaniyujra",
+        "ip": "172.171.2.5",
+        "estado": "online",
+        "nap": "NAP-DESCONOCIDO",
+        "x": -68.1233,
+        "y": -16.4893,
+        "ultima": 1753847390
+    },
+    "P1_virginiapaxihuayta": {
+        "nombre": "P1_virginiapaxihuayta",
+        "pppoe": "P1_virginiapaxihuayta",
+        "ip": "172.171.0.31",
+        "estado": "online",
+        "nap": "NAP-DESCONOCIDO",
+        "x": -68.1133,
+        "y": -16.4577,
+        "ultima": 1753847390
+    },
+    "P1_marcoantoniosilicuana": {
+        "nombre": "P1_marcoantoniosilicuana",
+        "pppoe": "P1_marcoantoniosilicuana",
+        "ip": "172.171.0.32",
+        "estado": "online",
+        "nap": "NAP-DESCONOCIDO",
+        "x": 152,
+        "y": -16.4692,
+        "ultima": 1753847390
+    },
+    "P1_policarpiotintapaxi": {
+        "nombre": "P1_policarpiotintapaxi",
+        "pppoe": "P1_policarpiotintapaxi",
+        "ip": "172.171.0.33",
+        "estado": "online",
+        "nap": "NAP-DESCONOCIDO",
+        "x": -68.1498,
+        "y": -16.4509,
+        "ultima": 1753847390
+    },
+    "P2_gisselachoqueluque": {
+        "nombre": "P2_gisselachoqueluque",
+        "pppoe": "P2_gisselachoqueluque",
+        "ip": "",
+        "estado": "offline",
+        "nap": "NAP-DESCONOCIDO",
+        "x": -68.1719,
+        "y": -16.4525,
+        "ultima": 1751449977
+    },
+    "P6_eloygallegokapque": {
+        "nombre": "P6_eloygallegokapque",
+        "pppoe": "P6_eloygallegokapque",
+        "ip": "",
+        "estado": "offline",
+        "nap": "NAP-DESCONOCIDO",
+        "x": -68.1158,
+        "y": -16.5277,
+        "ultima": 1752573611
+    },
+    "P3_percyoliverchambi": {
+        "nombre": "P3_percyoliverchambi",
+        "pppoe": "P3_percyoliverchambi",
+        "ip": "",
+        "estado": "offline",
+        "nap": "NAP-DESCONOCIDO",
+        "x": -68.1321,
+        "y": -16.5222,
+        "ultima": 1752226777
+    },
+    "P4_anavaldachoque": {
+        "nombre": "P4_anavaldachoque",
+        "pppoe": "P4_anavaldachoque",
+        "ip": "172.171.0.71",
+        "estado": "online",
+        "nap": "NAP-DESCONOCIDO",
+        "x": -68.172,
+        "y": -16.5123,
+        "ultima": 1753847390
+    },
+    "P3_omargustavomamani": {
+        "nombre": "P3_omargustavomamani",
+        "pppoe": "P3_omargustavomamani",
+        "ip": "",
+        "estado": "offline",
+        "nap": "NAP-DESCONOCIDO",
+        "x": -68.1296,
+        "y": -16.451,
+        "ultima": 1753050478
+    },
+    "P9-angelnicanorcondori": {
+        "nombre": "P9-angelnicanorcondori",
+        "pppoe": "P9-angelnicanorcondori",
+        "ip": "172.171.3.71",
+        "estado": "online",
+        "nap": "NAP-DESCONOCIDO",
+        "x": -68.1505,
+        "y": -16.5232,
+        "ultima": 1753847390
+    },
+    "P4-edgarvargas": {
+        "nombre": "P4-edgarvargas",
+        "pppoe": "P4-edgarvargas",
+        "ip": "172.171.3.102",
+        "estado": "online",
+        "nap": "NAP-DESCONOCIDO",
+        "x": -68.1515,
+        "y": -16.489,
+        "ultima": 1753847390
+    },
+    "rene": {
+        "nombre": "rene",
+        "pppoe": "rene",
+        "ip": "172.171.1.25",
+        "estado": "online",
+        "nap": "NAP-DESCONOCIDO",
+        "x": -68.14479999999999,
+        "y": -16.5336,
+        "ultima": 1753847390
+    },
+    "P7_josemariaquispequispe": {
+        "nombre": "P7_josemariaquispequispe",
+        "pppoe": "P7_josemariaquispequispe",
+        "ip": "",
+        "estado": "offline",
+        "nap": "NAP-DESCONOCIDO",
+        "x": -68.09259999999999,
+        "y": -16.503,
+        "ultima": 1751583653
+    },
+    "P7-aurelioconstantinomamani": {
+        "nombre": "P7-aurelioconstantinomamani",
+        "pppoe": "P7-aurelioconstantinomamani",
+        "ip": "",
+        "estado": "offline",
+        "nap": "NAP-DESCONOCIDO",
+        "x": 127,
+        "y": -16.4853,
+        "ultima": 1753002608
+    },
+    "P_emiliopedrocoaquira": {
+        "nombre": "P_emiliopedrocoaquira",
+        "pppoe": "P_emiliopedrocoaquira",
+        "ip": "",
+        "estado": "offline",
+        "nap": "NAP-DESCONOCIDO",
+        "x": -68.1194,
+        "y": -16.5029,
+        "ultima": 1753122186
+    },
+    "P2_yesikamamani": {
+        "nombre": "P2_yesikamamani",
+        "pppoe": "P2_yesikamamani",
+        "ip": "172.171.3.200",
+        "estado": "online",
+        "nap": "NAP-DESCONOCIDO",
+        "x": 163,
+        "y": -16.4513,
+        "ultima": 1753847390
+    },
+    "P1_ervinriverosriveros": {
+        "nombre": "P1_ervinriverosriveros",
+        "pppoe": "P1_ervinriverosriveros",
+        "ip": "",
+        "estado": "offline",
+        "nap": "NAP-DESCONOCIDO",
+        "x": -68.12989999999999,
+        "y": -16.5244,
+        "ultima": 1752843700
+    },
+    "P_axelyersoncondoripari": {
+        "nombre": "P_axelyersoncondoripari",
+        "pppoe": "P_axelyersoncondoripari",
+        "ip": "172.171.0.97",
+        "estado": "online",
+        "nap": "NAP-DESCONOCIDO",
+        "x": -68.0988,
+        "y": -16.4963,
+        "ultima": 1753847390
+    },
+    "P3_brayanmaxpacajessinani": {
+        "nombre": "P3_brayanmaxpacajessinani",
+        "pppoe": "P3_brayanmaxpacajessinani",
+        "ip": "172.171.0.30",
+        "estado": "online",
+        "nap": "NAP-DESCONOCIDO",
+        "x": -68.1391,
+        "y": -16.5186,
+        "ultima": 1753847390
+    },
+    "P_gisselachoqueluque": {
+        "nombre": "P_gisselachoqueluque",
+        "pppoe": "P_gisselachoqueluque",
+        "ip": "172.171.1.125",
+        "estado": "online",
+        "nap": "NAP-DESCONOCIDO",
+        "x": -68.0814,
+        "y": -16.4838,
+        "ultima": 1753847390
+    },
+    "demo": {
+        "nombre": "demo",
+        "pppoe": "demo",
+        "ip": "",
+        "estado": "offline",
+        "nap": "NAP-DESCONOCIDO",
+        "x": -68.0953,
+        "y": -16.5203,
+        "ultima": 1753317923
+    },
+    "P7_normapomaramos": {
+        "nombre": "P7_normapomaramos",
+        "pppoe": "P7_normapomaramos",
+        "ip": "",
+        "estado": "offline",
+        "nap": "NAP-DESCONOCIDO",
+        "x": -68.128,
+        "y": -16.5049,
+        "ultima": 1753140071
+    },
+    "P7_brigidacerdanapaza": {
+        "nombre": "P7_brigidacerdanapaza",
+        "pppoe": "P7_brigidacerdanapaza",
+        "ip": "",
+        "estado": "offline",
+        "nap": "NAP-DESCONOCIDO",
+        "x": -68.0929,
+        "y": -16.5024,
+        "ultima": 1753472440
+    },
+    "user": {
+        "nombre": "user",
+        "pppoe": "user",
+        "ip": "",
+        "estado": "offline",
+        "nap": "NAP-DESCONOCIDO",
+        "x": -68.15429999999999,
+        "y": -16.5403,
+        "ultima": 1751497583
+    },
+    "P11_eddychoqueflores": {
+        "nombre": "P11_eddychoqueflores",
+        "pppoe": "P11_eddychoqueflores",
+        "ip": "172.171.3.1",
+        "estado": "online",
+        "nap": "NAP-DESCONOCIDO",
+        "x": -68.11869999999999,
+        "y": -16.4534,
+        "ultima": 1753847390
+    },
+    "P7_cristianrodrigollutachiara": {
+        "nombre": "P7_cristianrodrigollutachiara",
+        "pppoe": "P7_cristianrodrigollutachiara",
+        "ip": "172.171.0.253",
+        "estado": "online",
+        "nap": "NAP-DESCONOCIDO",
+        "x": -68.1631,
+        "y": -16.5157,
+        "ultima": 1753847390
+    },
+    "P2_severochoquechoque": {
+        "nombre": "P2_severochoquechoque",
+        "pppoe": "P2_severochoquechoque",
+        "ip": "172.171.2.26",
+        "estado": "online",
+        "nap": "NAP-DESCONOCIDO",
+        "x": -68.1253,
+        "y": -16.5003,
+        "ultima": 1753847390
+    },
+    "P_ronaldmamanititirico": {
+        "nombre": "P_ronaldmamanititirico",
+        "pppoe": "P_ronaldmamanititirico",
+        "ip": "172.171.3.28",
+        "estado": "online",
+        "nap": "NAP-DESCONOCIDO",
+        "x": 135,
+        "y": -16.5,
+        "ultima": 1753847390
+    },
+    "P2_jhemerllojllapaucara": {
+        "nombre": "P2_jhemerllojllapaucara",
+        "pppoe": "P2_jhemerllojllapaucara",
+        "ip": "172.171.1.212",
+        "estado": "online",
+        "nap": "NAP-DESCONOCIDO",
+        "x": -68.1172,
+        "y": -16.5392,
+        "ultima": 1753847390
+    },
+    "P_celiaapazachura": {
+        "nombre": "P_celiaapazachura",
+        "pppoe": "P_celiaapazachura",
+        "ip": "172.171.2.2",
+        "estado": "online",
+        "nap": "NAP-DESCONOCIDO",
+        "x": -68.0843,
+        "y": -16.52,
+        "ultima": 1753847390
+    },
+    "P1_reynaldomamaniluqe": {
+        "nombre": "P1_reynaldomamaniluqe",
+        "pppoe": "P1_reynaldomamaniluqe",
+        "ip": "172.171.2.49",
+        "estado": "online",
+        "nap": "NAP-DESCONOCIDO",
+        "x": -68.12049999999999,
+        "y": -16.5391,
+        "ultima": 1753847390
+    },
+    "P_sofiaquispemaquera": {
+        "nombre": "P_sofiaquispemaquera",
+        "pppoe": "P_sofiaquispemaquera",
+        "ip": "172.171.3.101",
+        "estado": "online",
+        "nap": "NAP-DESCONOCIDO",
+        "x": -68.13239999999999,
+        "y": -16.5264,
+        "ultima": 1753847390
+    },
+    "P1_juancarlosyana": {
+        "nombre": "P1_juancarlosyana",
+        "pppoe": "P1_juancarlosyana",
+        "ip": "172.171.1.11",
+        "estado": "online",
+        "nap": "NAP-DESCONOCIDO",
+        "x": 165,
+        "y": -16.4764,
+        "ultima": 1753847390
+    },
+    "P5_lucilacoronellimachi": {
+        "nombre": "P5_lucilacoronellimachi",
+        "pppoe": "P5_lucilacoronellimachi",
+        "ip": "",
+        "estado": "offline",
+        "nap": "NAP-DESCONOCIDO",
+        "x": -68.08319999999999,
+        "y": -16.4935,
+        "ultima": 1753196297
+    },
+    "P_mariapaucara": {
+        "nombre": "P_mariapaucara",
+        "pppoe": "P_mariapaucara",
+        "ip": "172.171.2.235",
+        "estado": "online",
+        "nap": "NAP-DESCONOCIDO",
+        "x": -68.1135,
+        "y": -16.4846,
+        "ultima": 1753847390
+    },
+    "P2-Edsonrolandoflores": {
+        "nombre": "P2-Edsonrolandoflores",
+        "pppoe": "P2-Edsonrolandoflores",
+        "ip": "",
+        "estado": "offline",
+        "nap": "NAP-DESCONOCIDO",
+        "x": -68.0813,
+        "y": -16.4575,
+        "ultima": 1752543300
+    },
+    "P6_samuelcontrerasheredia": {
+        "nombre": "P6_samuelcontrerasheredia",
+        "pppoe": "P6_samuelcontrerasheredia",
+        "ip": "172.171.3.253",
+        "estado": "online",
+        "nap": "NAP-DESCONOCIDO",
+        "x": -68.17089999999999,
+        "y": -16.472,
+        "ultima": 1753847390
+    },
+    "P3_amaliahuanquirequispe": {
+        "nombre": "P3_amaliahuanquirequispe",
+        "pppoe": "P3_amaliahuanquirequispe",
+        "ip": "172.171.0.3",
+        "estado": "online",
+        "nap": "NAP-DESCONOCIDO",
+        "x": -68.1533,
+        "y": -16.483,
+        "ultima": 1753847390
+    },
+    "P3_robertocondoripaucara": {
+        "nombre": "P3_robertocondoripaucara",
+        "pppoe": "P3_robertocondoripaucara",
+        "ip": "172.171.0.56",
+        "estado": "online",
+        "nap": "NAP-DESCONOCIDO",
+        "x": -68.15979999999999,
+        "y": -16.5499,
+        "ultima": 1753847390
+    },
+    "P_ivangustavomamanicondori": {
+        "nombre": "P_ivangustavomamanicondori",
+        "pppoe": "P_ivangustavomamanicondori",
+        "ip": "172.171.0.52",
+        "estado": "online",
+        "nap": "NAP-DESCONOCIDO",
+        "x": -68.16029999999999,
+        "y": -16.5136,
+        "ultima": 1753847390
+    },
+    "P1_ciprianapaucarapaucara": {
+        "nombre": "P1_ciprianapaucarapaucara",
+        "pppoe": "P1_ciprianapaucarapaucara",
+        "ip": "172.171.0.54",
+        "estado": "online",
+        "nap": "NAP-DESCONOCIDO",
+        "x": -68.088,
+        "y": -16.497,
+        "ultima": 1753847390
+    },
+    "P_marcoantonioramospucho": {
+        "nombre": "P_marcoantonioramospucho",
+        "pppoe": "P_marcoantonioramospucho",
+        "ip": "172.171.1.18",
+        "estado": "online",
+        "nap": "NAP-DESCONOCIDO",
+        "x": -68.1751,
+        "y": -16.4549,
+        "ultima": 1753847390
+    },
+    "P7-erikquinoneS": {
+        "nombre": "P7-erikquinoneS",
+        "pppoe": "P7-erikquinoneS",
+        "ip": "172.171.0.55",
+        "estado": "online",
+        "nap": "NAP-DESCONOCIDO",
+        "x": -68.1368,
+        "y": -16.5148,
+        "ultima": 1753847390
+    },
+    "P_luiszenonlaimemamani": {
+        "nombre": "P_luiszenonlaimemamani",
+        "pppoe": "P_luiszenonlaimemamani",
+        "ip": "172.171.1.64",
+        "estado": "online",
+        "nap": "NAP-DESCONOCIDO",
+        "x": -68.1686,
+        "y": -16.4506,
+        "ultima": 1753847390
+    },
+    "P_rosamamanichoque": {
+        "nombre": "P_rosamamanichoque",
+        "pppoe": "P_rosamamanichoque",
+        "ip": "172.171.1.40",
+        "estado": "online",
+        "nap": "NAP-DESCONOCIDO",
+        "x": -68.1506,
+        "y": -16.5443,
+        "ultima": 1753847390
+    },
+    "P1_edgarpacomiranda": {
+        "nombre": "P1_edgarpacomiranda",
+        "pppoe": "P1_edgarpacomiranda",
+        "ip": "172.171.1.30",
+        "estado": "online",
+        "nap": "NAP-DESCONOCIDO",
+        "x": -68.08699999999999,
+        "y": -16.4757,
+        "ultima": 1753847390
+    },
+    "P_javiercalamanimamani": {
+        "nombre": "P_javiercalamanimamani",
+        "pppoe": "P_javiercalamanimamani",
+        "ip": "172.171.1.22",
+        "estado": "online",
+        "nap": "NAP-DESCONOCIDO",
+        "x": -68.1771,
+        "y": -16.5235,
+        "ultima": 1753847390
+    },
+    "P_esmeraldachoqueventura": {
+        "nombre": "P_esmeraldachoqueventura",
+        "pppoe": "P_esmeraldachoqueventura",
+        "ip": "172.171.1.44",
+        "estado": "online",
+        "nap": "NAP-DESCONOCIDO",
+        "x": -68.1158,
+        "y": -16.4591,
+        "ultima": 1753847390
+    },
+    "P5_arielticonalimachi": {
+        "nombre": "P5_arielticonalimachi",
+        "pppoe": "P5_arielticonalimachi",
+        "ip": "172.171.1.2",
+        "estado": "online",
+        "nap": "NAP-DESCONOCIDO",
+        "x": -68.1081,
+        "y": -16.5258,
+        "ultima": 1753847390
+    },
+    "P5_fernandocollatupablanco": {
+        "nombre": "P5_fernandocollatupablanco",
+        "pppoe": "P5_fernandocollatupablanco",
+        "ip": "172.171.2.47",
+        "estado": "online",
+        "nap": "NAP-DESCONOCIDO",
+        "x": -68.10159999999999,
+        "y": -16.4902,
+        "ultima": 1753847390
+    },
+    "P7_elizaberthcallizayapacohuanca": {
+        "nombre": "P7_elizaberthcallizayapacohuanca",
+        "pppoe": "P7_elizaberthcallizayapacohuanca",
+        "ip": "",
+        "estado": "offline",
+        "nap": "NAP-DESCONOCIDO",
+        "x": -68.11439999999999,
+        "y": -16.4781,
+        "ultima": 1752449145
+    },
+    "P2_jhefersonlaymecadena": {
+        "nombre": "P2_jhefersonlaymecadena",
+        "pppoe": "P2_jhefersonlaymecadena",
+        "ip": "172.171.1.32",
+        "estado": "online",
+        "nap": "NAP-DESCONOCIDO",
+        "x": -68.1021,
+        "y": -16.4888,
+        "ultima": 1753847390
+    },
+    "P_renemamanigutierez": {
+        "nombre": "P_renemamanigutierez",
+        "pppoe": "P_renemamanigutierez",
+        "ip": "172.171.3.3",
+        "estado": "online",
+        "nap": "NAP-DESCONOCIDO",
+        "x": -68.1006,
+        "y": -16.4512,
+        "ultima": 1753847390
+    },
+    "P7_rosmindavargascancari": {
+        "nombre": "P7_rosmindavargascancari",
+        "pppoe": "P7_rosmindavargascancari",
+        "ip": "172.171.3.39",
+        "estado": "online",
+        "nap": "NAP-DESCONOCIDO",
+        "x": -68.1028,
+        "y": -16.4871,
+        "ultima": 1753847390
+    },
+    "P2_esperanzavargascankari": {
+        "nombre": "P2_esperanzavargascankari",
+        "pppoe": "P2_esperanzavargascankari",
+        "ip": "172.171.3.34",
+        "estado": "online",
+        "nap": "NAP-DESCONOCIDO",
+        "x": 176,
+        "y": -16.476,
+        "ultima": 1753847390
+    },
+    "P_ronaldcahunaapaza": {
+        "nombre": "P_ronaldcahunaapaza",
+        "pppoe": "P_ronaldcahunaapaza",
+        "ip": "",
+        "estado": "offline",
+        "nap": "NAP-DESCONOCIDO",
+        "x": -68.1262,
+        "y": -16.5144,
+        "ultima": 1752868783
+    },
+    "P6_daniaapazamamani": {
+        "nombre": "P6_daniaapazamamani",
+        "pppoe": "P6_daniaapazamamani",
+        "ip": "172.171.3.29",
+        "estado": "online",
+        "nap": "NAP-DESCONOCIDO",
+        "x": -68.12639999999999,
+        "y": -16.5317,
+        "ultima": 1753847390
+    },
+    "P_demetriocastillomamani": {
+        "nombre": "P_demetriocastillomamani",
+        "pppoe": "P_demetriocastillomamani",
+        "ip": "172.171.2.3",
+        "estado": "online",
+        "nap": "NAP-DESCONOCIDO",
+        "x": -68.1622,
+        "y": -16.46,
+        "ultima": 1753847390
+    },
+    "P2_arminiaramoscondori": {
+        "nombre": "P2_arminiaramoscondori",
+        "pppoe": "P2_arminiaramoscondori",
+        "ip": "172.171.0.67",
+        "estado": "online",
+        "nap": "NAP-DESCONOCIDO",
+        "x": -68.1612,
+        "y": -16.5424,
+        "ultima": 1753847390
+    },
+    "1234": {
+        "nombre": "1234",
+        "pppoe": "1234",
+        "ip": "172.171.1.26",
+        "estado": "online",
+        "nap": "NAP-DESCONOCIDO",
+        "x": 163,
+        "y": -16.4897,
+        "ultima": 1753847390
+    },
+    "500": {
+        "nombre": "500",
+        "pppoe": "500",
+        "ip": "",
+        "estado": "offline",
+        "nap": "NAP-DESCONOCIDO",
+        "x": -68.11309999999999,
+        "y": -16.4926,
+        "ultima": 1753097626
+    },
+    "72": {
+        "nombre": "72",
+        "pppoe": "72",
+        "ip": "",
+        "estado": "offline",
+        "nap": "NAP-DESCONOCIDO",
+        "x": -68.1737,
+        "y": -16.4829,
+        "ultima": 1751462487
+    },
+    "P5-omarmamaniquispe": {
+        "nombre": "P5-omarmamaniquispe",
+        "pppoe": "P5-omarmamaniquispe",
+        "ip": "172.171.3.41",
+        "estado": "online",
+        "nap": "NAP-DESCONOCIDO",
+        "x": -68.1571,
+        "y": -16.5264,
+        "ultima": 1753847390
+    },
+    "P8-reynahuayhuapachacuti": {
+        "nombre": "P8-reynahuayhuapachacuti",
+        "pppoe": "P8-reynahuayhuapachacuti",
+        "ip": "172.171.3.43",
+        "estado": "online",
+        "nap": "NAP-DESCONOCIDO",
+        "x": -68.17259999999999,
+        "y": -16.4653,
+        "ultima": 1753847390
+    },
+    "P_nancyaverangaramos": {
+        "nombre": "P_nancyaverangaramos",
+        "pppoe": "P_nancyaverangaramos",
+        "ip": "172.171.1.52",
+        "estado": "online",
+        "nap": "NAP-DESCONOCIDO",
+        "x": -68.16749999999999,
+        "y": -16.4807,
+        "ultima": 1753847390
+    },
+    "P_mayravelasquez": {
+        "nombre": "P_mayravelasquez",
+        "pppoe": "P_mayravelasquez",
+        "ip": "",
+        "estado": "offline",
+        "nap": "NAP-DESCONOCIDO",
+        "x": -68.16539999999999,
+        "y": -16.4552,
+        "ultima": 1751643464
+    },
+    "P7_yhoselinchuillacerdan": {
+        "nombre": "P7_yhoselinchuillacerdan",
+        "pppoe": "P7_yhoselinchuillacerdan",
+        "ip": "172.171.3.78",
+        "estado": "online",
+        "nap": "NAP-DESCONOCIDO",
+        "x": -68.146,
+        "y": -16.5087,
+        "ultima": 1753847390
+    },
+    "P1_victorquispe": {
+        "nombre": "P1_victorquispe",
+        "pppoe": "P1_victorquispe",
+        "ip": "172.171.1.34",
+        "estado": "online",
+        "nap": "NAP-DESCONOCIDO",
+        "x": -68.17559999999999,
+        "y": -16.5473,
+        "ultima": 1753847390
+    },
+    "P7_hilarionquispelopez": {
+        "nombre": "P7_hilarionquispelopez",
+        "pppoe": "P7_hilarionquispelopez",
+        "ip": "172.171.3.11",
+        "estado": "online",
+        "nap": "NAP-DESCONOCIDO",
+        "x": -68.1455,
+        "y": -16.5032,
+        "ultima": 1753847390
+    },
+    "P5_leyzavirginiacallemamani": {
+        "nombre": "P5_leyzavirginiacallemamani",
+        "pppoe": "P5_leyzavirginiacallemamani",
+        "ip": "",
+        "estado": "offline",
+        "nap": "NAP-DESCONOCIDO",
+        "x": -68.0938,
+        "y": -16.5055,
+        "ultima": 1753382276
+    },
+    "P_froilancaunamamani": {
+        "nombre": "P_froilancaunamamani",
+        "pppoe": "P_froilancaunamamani",
+        "ip": "172.171.0.2",
+        "estado": "online",
+        "nap": "NAP-DESCONOCIDO",
+        "x": 179,
+        "y": -16.4795,
+        "ultima": 1753847390
+    },
+    "P4_rudyfloresmamani": {
+        "nombre": "P4_rudyfloresmamani",
+        "pppoe": "P4_rudyfloresmamani",
+        "ip": "172.171.3.51",
+        "estado": "online",
+        "nap": "NAP-DESCONOCIDO",
+        "x": -68.0949,
+        "y": -16.4802,
+        "ultima": 1753847390
+    },
+    "P6_demetriohuamcamachaca": {
+        "nombre": "P6_demetriohuamcamachaca",
+        "pppoe": "P6_demetriohuamcamachaca",
+        "ip": "172.171.3.45",
+        "estado": "online",
+        "nap": "NAP-DESCONOCIDO",
+        "x": -68.0844,
+        "y": -16.4903,
+        "ultima": 1753847390
+    },
+    "P5carolinajuanaapazailari": {
+        "nombre": "P5carolinajuanaapazailari",
+        "pppoe": "P5carolinajuanaapazailari",
+        "ip": "172.171.0.29",
+        "estado": "online",
+        "nap": "NAP-DESCONOCIDO",
+        "x": -68.1415,
+        "y": -16.4634,
+        "ultima": 1753847390
+    },
+    "P7_hualtercozorlaflores": {
+        "nombre": "P7_hualtercozorlaflores",
+        "pppoe": "P7_hualtercozorlaflores",
+        "ip": "172.171.2.250",
+        "estado": "online",
+        "nap": "NAP-DESCONOCIDO",
+        "x": -68.1575,
+        "y": -16.4693,
+        "ultima": 1753847390
+    },
+    "P8-jorgecolqueserezoo": {
+        "nombre": "P8-jorgecolqueserezoo",
+        "pppoe": "P8-jorgecolqueserezoo",
+        "ip": "172.171.1.21",
+        "estado": "online",
+        "nap": "NAP-DESCONOCIDO",
+        "x": 165,
+        "y": -16.5089,
+        "ultima": 1753847390
+    },
+    "P5_josecatacoraquispe": {
+        "nombre": "P5_josecatacoraquispe",
+        "pppoe": "P5_josecatacoraquispe",
+        "ip": "172.171.2.252",
+        "estado": "online",
+        "nap": "NAP-DESCONOCIDO",
+        "x": -68.113,
+        "y": -16.4587,
+        "ultima": 1753847390
+    },
+    "P3_renemamanihuanca": {
+        "nombre": "P3_renemamanihuanca",
+        "pppoe": "P3_renemamanihuanca",
+        "ip": "172.171.1.10",
+        "estado": "online",
+        "nap": "NAP-DESCONOCIDO",
+        "x": -68.1673,
+        "y": -16.4814,
+        "ultima": 1753847390
+    },
+    "P6_vivianahuacatitivega": {
+        "nombre": "P6_vivianahuacatitivega",
+        "pppoe": "P6_vivianahuacatitivega",
+        "ip": "172.171.1.29",
+        "estado": "online",
+        "nap": "NAP-DESCONOCIDO",
+        "x": -68.1591,
+        "y": -16.4891,
+        "ultima": 1753847390
+    },
+    "P7_agustinchuracatari": {
+        "nombre": "P7_agustinchuracatari",
+        "pppoe": "P7_agustinchuracatari",
+        "ip": "172.171.2.17",
+        "estado": "online",
+        "nap": "NAP-DESCONOCIDO",
+        "x": 146,
+        "y": -16.4749,
+        "ultima": 1753847390
+    },
+    "P9-alexbarreraquispe": {
+        "nombre": "P9-alexbarreraquispe",
+        "pppoe": "P9-alexbarreraquispe",
+        "ip": "172.171.2.15",
+        "estado": "online",
+        "nap": "NAP-DESCONOCIDO",
+        "x": -68.08059999999999,
+        "y": -16.4564,
+        "ultima": 1753847390
+    },
+    "P6alexsabinoquispe": {
+        "nombre": "P6alexsabinoquispe",
+        "pppoe": "P6alexsabinoquispe",
+        "ip": "172.171.2.203",
+        "estado": "online",
+        "nap": "NAP-DESCONOCIDO",
+        "x": -68.10369999999999,
+        "y": -16.4606,
+        "ultima": 1753847390
+    },
+    "P5_alfredofloresyavinchaa": {
+        "nombre": "P5_alfredofloresyavinchaa",
+        "pppoe": "P5_alfredofloresyavinchaa",
+        "ip": "172.171.2.9",
+        "estado": "online",
+        "nap": "NAP-DESCONOCIDO",
+        "x": -68.11659999999999,
+        "y": -16.541,
+        "ultima": 1753847390
+    },
+    "P2_Amaliausnayoquispee": {
+        "nombre": "P2_Amaliausnayoquispee",
+        "pppoe": "P2_Amaliausnayoquispee",
+        "ip": "172.171.2.21",
+        "estado": "online",
+        "nap": "NAP-DESCONOCIDO",
+        "x": -68.17479999999999,
+        "y": -16.548,
+        "ultima": 1753847390
+    },
+    "P8_anarosamaquerakjara": {
+        "nombre": "P8_anarosamaquerakjara",
+        "pppoe": "P8_anarosamaquerakjara",
+        "ip": "172.171.2.23",
+        "estado": "online",
+        "nap": "NAP-DESCONOCIDO",
+        "x": -68.1293,
+        "y": -16.5465,
+        "ultima": 1753847390
+    },
+    "P7_antoniamachacamachac": {
+        "nombre": "P7_antoniamachacamachac",
+        "pppoe": "P7_antoniamachacamachac",
+        "ip": "172.171.2.251",
+        "estado": "online",
+        "nap": "NAP-DESCONOCIDO",
+        "x": -68.0826,
+        "y": -16.5433,
+        "ultima": 1753847390
+    },
+    "P2-brahincondorilucana": {
+        "nombre": "P2-brahincondorilucana",
+        "pppoe": "P2-brahincondorilucana",
+        "ip": "172.171.1.35",
+        "estado": "online",
+        "nap": "NAP-DESCONOCIDO",
+        "x": -68.1036,
+        "y": -16.4713,
+        "ultima": 1753847390
+    },
+    "P8_carlosalfredochoquesalines": {
+        "nombre": "P8_carlosalfredochoquesalines",
+        "pppoe": "P8_carlosalfredochoquesalines",
+        "ip": "172.171.1.28",
+        "estado": "online",
+        "nap": "NAP-DESCONOCIDO",
+        "x": -68.11529999999999,
+        "y": -16.4716,
+        "ultima": 1753847390
+    },
+    "P8_celestinochambimamani": {
+        "nombre": "P8_celestinochambimamani",
+        "pppoe": "P8_celestinochambimamani",
+        "ip": "172.171.0.20",
+        "estado": "online",
+        "nap": "NAP-DESCONOCIDO",
+        "x": -68.1266,
+        "y": -16.5338,
+        "ultima": 1753847390
+    },
+    "P2-cintiaaquice": {
+        "nombre": "P2-cintiaaquice",
+        "pppoe": "P2-cintiaaquice",
+        "ip": "172.171.1.33",
+        "estado": "online",
+        "nap": "NAP-DESCONOCIDO",
+        "x": -68.08659999999999,
+        "y": -16.4513,
+        "ultima": 1753847390
+    },
+    "P6-claudiozenovioclares": {
+        "nombre": "P6-claudiozenovioclares",
+        "pppoe": "P6-claudiozenovioclares",
+        "ip": "172.171.1.36",
+        "estado": "online",
+        "nap": "NAP-DESCONOCIDO",
+        "x": -68.14829999999999,
+        "y": -16.5087,
+        "ultima": 1753847390
+    },
+    "P3_davididapamamani": {
+        "nombre": "P3_davididapamamani",
+        "pppoe": "P3_davididapamamani",
+        "ip": "172.171.1.38",
+        "estado": "online",
+        "nap": "NAP-DESCONOCIDO",
+        "x": -68.09599999999999,
+        "y": -16.5266,
+        "ultima": 1753847390
+    },
+    "P2_cristinacalaminaquisp": {
+        "nombre": "P2_cristinacalaminaquisp",
+        "pppoe": "P2_cristinacalaminaquisp",
+        "ip": "172.171.2.70",
+        "estado": "online",
+        "nap": "NAP-DESCONOCIDO",
+        "x": -68.1498,
+        "y": -16.5094,
+        "ultima": 1753847390
+    },
+    "P8-diegomamaniapaz": {
+        "nombre": "P8-diegomamaniapaz",
+        "pppoe": "P8-diegomamaniapaz",
+        "ip": "172.171.2.24",
+        "estado": "online",
+        "nap": "NAP-DESCONOCIDO",
+        "x": -68.1642,
+        "y": -16.4837,
+        "ultima": 1753847390
+    },
+    "P5_davorfelixchoquehuanca": {
+        "nombre": "P5_davorfelixchoquehuanca",
+        "pppoe": "P5_davorfelixchoquehuanca",
+        "ip": "172.171.0.18",
+        "estado": "online",
+        "nap": "NAP-DESCONOCIDO",
+        "x": -68.1141,
+        "y": -16.5337,
+        "ultima": 1753847390
+    },
+    "P7-dayzichoque": {
+        "nombre": "P7-dayzichoque",
+        "pppoe": "P7-dayzichoque",
+        "ip": "172.171.1.39",
+        "estado": "online",
+        "nap": "NAP-DESCONOCIDO",
+        "x": -68.08359999999999,
+        "y": -16.5069,
+        "ultima": 1753847390
+    },
+    "P7_deysipereztintaya": {
+        "nombre": "P7_deysipereztintaya",
+        "pppoe": "P7_deysipereztintaya",
+        "ip": "172.171.0.6",
+        "estado": "online",
+        "nap": "NAP-DESCONOCIDO",
+        "x": -68.09769999999999,
+        "y": -16.4764,
+        "ultima": 1753847390
+    },
+    "P4_edwinyujrachura": {
+        "nombre": "P4_edwinyujrachura",
+        "pppoe": "P4_edwinyujrachura",
+        "ip": "172.171.1.27",
+        "estado": "online",
+        "nap": "NAP-DESCONOCIDO",
+        "x": -68.09779999999999,
+        "y": -16.5036,
+        "ultima": 1753847390
+    },
+    "P2_efraencahuasacarita": {
+        "nombre": "P2_efraencahuasacarita",
+        "pppoe": "P2_efraencahuasacarita",
+        "ip": "172.171.2.10",
+        "estado": "online",
+        "nap": "NAP-DESCONOCIDO",
+        "x": -68.1575,
+        "y": -16.5343,
+        "ultima": 1753847390
+    },
+    "P7eluteriocalsinalopez": {
+        "nombre": "P7eluteriocalsinalopez",
+        "pppoe": "P7eluteriocalsinalopez",
+        "ip": "172.171.3.9",
+        "estado": "online",
+        "nap": "NAP-DESCONOCIDO",
+        "x": 132,
+        "y": -16.4919,
+        "ultima": 1753847390
+    },
+    "P2_eugenioquispemamani": {
+        "nombre": "P2_eugenioquispemamani",
+        "pppoe": "P2_eugenioquispemamani",
+        "ip": "172.171.1.41",
+        "estado": "online",
+        "nap": "NAP-DESCONOCIDO",
+        "x": -68.1629,
+        "y": -16.497,
+        "ultima": 1753847390
+    },
+    "P3_fannycallesoruco": {
+        "nombre": "P3_fannycallesoruco",
+        "pppoe": "P3_fannycallesoruco",
+        "ip": "172.171.2.31",
+        "estado": "online",
+        "nap": "NAP-DESCONOCIDO",
+        "x": -68.1462,
+        "y": -16.4689,
+        "ultima": 1753847390
+    },
+    "P2_genararosiojovehuanaco": {
+        "nombre": "P2_genararosiojovehuanaco",
+        "pppoe": "P2_genararosiojovehuanaco",
+        "ip": "172.171.3.47",
+        "estado": "online",
+        "nap": "NAP-DESCONOCIDO",
+        "x": -68.1327,
+        "y": -16.5112,
+        "ultima": 1753847390
+    },
+    "P8-floracaunaquispe": {
+        "nombre": "P8-floracaunaquispe",
+        "pppoe": "P8-floracaunaquispe",
+        "ip": "172.171.1.43",
+        "estado": "online",
+        "nap": "NAP-DESCONOCIDO",
+        "x": -68.176,
+        "y": -16.5224,
+        "ultima": 1753847390
+    },
+    "P6_freddyramossardon": {
+        "nombre": "P6_freddyramossardon",
+        "pppoe": "P6_freddyramossardon",
+        "ip": "172.171.2.32",
+        "estado": "online",
+        "nap": "NAP-DESCONOCIDO",
+        "x": -68.16019999999999,
+        "y": -16.4849,
+        "ultima": 1753847390
+    },
+    "P6_gabriellunacajchaya": {
+        "nombre": "P6_gabriellunacajchaya",
+        "pppoe": "P6_gabriellunacajchaya",
+        "ip": "172.171.1.45",
+        "estado": "online",
+        "nap": "NAP-DESCONOCIDO",
+        "x": -68.0898,
+        "y": -16.5069,
+        "ultima": 1753847390
+    },
+    "P7_gerardoquispemaquera": {
+        "nombre": "P7_gerardoquispemaquera",
+        "pppoe": "P7_gerardoquispemaquera",
+        "ip": "172.171.2.33",
+        "estado": "online",
+        "nap": "NAP-DESCONOCIDO",
+        "x": -68.0971,
+        "y": -16.4869,
+        "ultima": 1753847390
+    },
+    "P3_germanjuliomirqndavargas": {
+        "nombre": "P3_germanjuliomirqndavargas",
+        "pppoe": "P3_germanjuliomirqndavargas",
+        "ip": "172.171.1.47",
+        "estado": "online",
+        "nap": "NAP-DESCONOCIDO",
+        "x": -68.11869999999999,
+        "y": -16.4816,
+        "ultima": 1753847390
+    },
+    "P7_germanmendozaapaza": {
+        "nombre": "P7_germanmendozaapaza",
+        "pppoe": "P7_germanmendozaapaza",
+        "ip": "172.171.2.30",
+        "estado": "online",
+        "nap": "NAP-DESCONOCIDO",
+        "x": -68.0975,
+        "y": -16.4748,
+        "ultima": 1753847390
+    },
+    "P1_grovercolquemamani": {
+        "nombre": "P1_grovercolquemamani",
+        "pppoe": "P1_grovercolquemamani",
+        "ip": "172.171.2.35",
+        "estado": "online",
+        "nap": "NAP-DESCONOCIDO",
+        "x": 135,
+        "y": -16.4924,
+        "ultima": 1753847390
+    },
+    "P11_grovermachacacondori": {
+        "nombre": "P11_grovermachacacondori",
+        "pppoe": "P11_grovermachacacondori",
+        "ip": "172.171.2.25",
+        "estado": "online",
+        "nap": "NAP-DESCONOCIDO",
+        "x": -68.104,
+        "y": -16.4574,
+        "ultima": 1753847390
+    },
+    "P5_gregoriopaucara": {
+        "nombre": "P5_gregoriopaucara",
+        "pppoe": "P5_gregoriopaucara",
+        "ip": "172.171.2.39",
+        "estado": "online",
+        "nap": "NAP-DESCONOCIDO",
+        "x": -68.1728,
+        "y": -16.5421,
+        "ultima": 1753847390
+    },
+    "P5_groverturpobautista": {
+        "nombre": "P5_groverturpobautista",
+        "pppoe": "P5_groverturpobautista",
+        "ip": "172.171.2.36",
+        "estado": "online",
+        "nap": "NAP-DESCONOCIDO",
+        "x": -68.1165,
+        "y": -16.4983,
+        "ultima": 1753847390
+    },
+    "P2_guillerminalauraquispe": {
+        "nombre": "P2_guillerminalauraquispe",
+        "pppoe": "P2_guillerminalauraquispe",
+        "ip": "172.171.2.40",
+        "estado": "online",
+        "nap": "NAP-DESCONOCIDO",
+        "x": -68.09469999999999,
+        "y": -16.4817,
+        "ultima": 1753847390
+    },
+    "P4_henrymonasteriosquispe": {
+        "nombre": "P4_henrymonasteriosquispe",
+        "pppoe": "P4_henrymonasteriosquispe",
+        "ip": "172.171.2.41",
+        "estado": "online",
+        "nap": "NAP-DESCONOCIDO",
+        "x": -68.0816,
+        "y": -16.5299,
+        "ultima": 1753847390
+    },
+    "P4_humbertobenjaminmamani": {
+        "nombre": "P4_humbertobenjaminmamani",
+        "pppoe": "P4_humbertobenjaminmamani",
+        "ip": "172.171.1.37",
+        "estado": "online",
+        "nap": "NAP-DESCONOCIDO",
+        "x": -68.1133,
+        "y": -16.5173,
+        "ultima": 1753847390
+    },
+    "P8_ivanfernandopaye": {
+        "nombre": "P8_ivanfernandopaye",
+        "pppoe": "P8_ivanfernandopaye",
+        "ip": "172.171.2.42",
+        "estado": "online",
+        "nap": "NAP-DESCONOCIDO",
+        "x": -68.13719999999999,
+        "y": -16.4655,
+        "ultima": 1753847390
+    },
+    "P7_iversamomamani": {
+        "nombre": "P7_iversamomamani",
+        "pppoe": "P7_iversamomamani",
+        "ip": "172.171.2.37",
+        "estado": "online",
+        "nap": "NAP-DESCONOCIDO",
+        "x": -68.16409999999999,
+        "y": -16.4657,
+        "ultima": 1753847390
+    },
+    "P6-javierhilariocondori": {
+        "nombre": "P6-javierhilariocondori",
+        "pppoe": "P6-javierhilariocondori",
+        "ip": "172.171.1.46",
+        "estado": "online",
+        "nap": "NAP-DESCONOCIDO",
+        "x": -68.1541,
+        "y": -16.5378,
+        "ultima": 1753847390
+    },
+    "P4_jennychuratalopez": {
+        "nombre": "P4_jennychuratalopez",
+        "pppoe": "P4_jennychuratalopez",
+        "ip": "172.171.2.44",
+        "estado": "online",
+        "nap": "NAP-DESCONOCIDO",
+        "x": -68.14909999999999,
+        "y": -16.5454,
+        "ultima": 1753847390
+    },
+    "P7_yulizarojasquispe": {
+        "nombre": "P7_yulizarojasquispe",
+        "pppoe": "P7_yulizarojasquispe",
+        "ip": "172.171.1.49",
+        "estado": "online",
+        "nap": "NAP-DESCONOCIDO",
+        "x": 100,
+        "y": -16.5326,
+        "ultima": 1753847390
+    },
+    "P1_yovanaquispemamani": {
+        "nombre": "P1_yovanaquispemamani",
+        "pppoe": "P1_yovanaquispemamani",
+        "ip": "172.171.2.43",
+        "estado": "online",
+        "nap": "NAP-DESCONOCIDO",
+        "x": -68.0807,
+        "y": -16.5086,
+        "ultima": 1753847390
+    },
+    "P4_yovananinapinto": {
+        "nombre": "P4_yovananinapinto",
+        "pppoe": "P4_yovananinapinto",
+        "ip": "172.171.2.50",
+        "estado": "online",
+        "nap": "NAP-DESCONOCIDO",
+        "x": -68.15979999999999,
+        "y": -16.496,
+        "ultima": 1753847390
+    },
+    "P5-yobanamiranda": {
+        "nombre": "P5-yobanamiranda",
+        "pppoe": "P5-yobanamiranda",
+        "ip": "172.171.1.50",
+        "estado": "online",
+        "nap": "NAP-DESCONOCIDO",
+        "x": -68.1523,
+        "y": -16.5439,
+        "ultima": 1753847390
+    },
+    "P5_yhonyticonacalle": {
+        "nombre": "P5_yhonyticonacalle",
+        "pppoe": "P5_yhonyticonacalle",
+        "ip": "172.171.2.52",
+        "estado": "online",
+        "nap": "NAP-DESCONOCIDO",
+        "x": -68.15589999999999,
+        "y": -16.4833,
+        "ultima": 1753847390
+    },
+    "P2_wilsoncruzmamani": {
+        "nombre": "P2_wilsoncruzmamani",
+        "pppoe": "P2_wilsoncruzmamani",
+        "ip": "172.171.3.106",
+        "estado": "online",
+        "nap": "NAP-DESCONOCIDO",
+        "x": -68.14699999999999,
+        "y": -16.4622,
+        "ultima": 1753847390
+    },
+    "P7_wilmerquentapinedo": {
+        "nombre": "P7_wilmerquentapinedo",
+        "pppoe": "P7_wilmerquentapinedo",
+        "ip": "172.171.2.46",
+        "estado": "online",
+        "nap": "NAP-DESCONOCIDO",
+        "x": 115,
+        "y": -16.5298,
+        "ultima": 1753847390
+    },
+    "P7-wilmerlarico": {
+        "nombre": "P7-wilmerlarico",
+        "pppoe": "P7-wilmerlarico",
+        "ip": "172.171.2.51",
+        "estado": "online",
+        "nap": "NAP-DESCONOCIDO",
+        "x": -68.1095,
+        "y": -16.4982,
+        "ultima": 1753847390
+    },
+    "P5-willyticona": {
+        "nombre": "P5-willyticona",
+        "pppoe": "P5-willyticona",
+        "ip": "172.171.1.53",
+        "estado": "online",
+        "nap": "NAP-DESCONOCIDO",
+        "x": -68.0996,
+        "y": -16.4836,
+        "ultima": 1753847390
+    },
+    "P4-wilderkapajeique": {
+        "nombre": "P4-wilderkapajeique",
+        "pppoe": "P4-wilderkapajeique",
+        "ip": "172.171.1.51",
+        "estado": "online",
+        "nap": "NAP-DESCONOCIDO",
+        "x": 115,
+        "y": -16.4914,
+        "ultima": 1753847390
+    },
+    "P6-victoriacanaviri": {
+        "nombre": "P6-victoriacanaviri",
+        "pppoe": "P6-victoriacanaviri",
+        "ip": "172.171.2.58",
+        "estado": "online",
+        "nap": "NAP-DESCONOCIDO",
+        "x": -68.0865,
+        "y": -16.4538,
+        "ultima": 1753847390
+    },
+    "P3_santusamittalayme": {
+        "nombre": "P3_santusamittalayme",
+        "pppoe": "P3_santusamittalayme",
+        "ip": "172.171.1.54",
+        "estado": "online",
+        "nap": "NAP-DESCONOCIDO",
+        "x": -68.10159999999999,
+        "y": -16.5289,
+        "ultima": 1753847390
+    },
+    "P6_santosyujrachura": {
+        "nombre": "P6_santosyujrachura",
+        "pppoe": "P6_santosyujrachura",
+        "ip": "172.171.1.48",
+        "estado": "online",
+        "nap": "NAP-DESCONOCIDO",
+        "x": -68.1169,
+        "y": -16.5191,
+        "ultima": 1753847390
+    },
+    "P3-rubenquispemamani": {
+        "nombre": "P3-rubenquispemamani",
+        "pppoe": "P3-rubenquispemamani",
+        "ip": "172.171.1.58",
+        "estado": "online",
+        "nap": "NAP-DESCONOCIDO",
+        "x": -68.1181,
+        "y": -16.4511,
+        "ultima": 1753847390
+    },
+    "P7_rosmerychoquecastana": {
+        "nombre": "P7_rosmerychoquecastana",
+        "pppoe": "P7_rosmerychoquecastana",
+        "ip": "172.171.3.52",
+        "estado": "online",
+        "nap": "NAP-DESCONOCIDO",
+        "x": 151,
+        "y": -16.4983,
+        "ultima": 1753847390
+    },
+    "P4_ronalevercrusapaza": {
+        "nombre": "P4_ronalevercrusapaza",
+        "pppoe": "P4_ronalevercrusapaza",
+        "ip": "172.171.1.60",
+        "estado": "online",
+        "nap": "NAP-DESCONOCIDO",
+        "x": -68.10709999999999,
+        "y": -16.5338,
+        "ultima": 1753847390
+    },
+    "P2_eliasmamaniaruquipa": {
+        "nombre": "P2_eliasmamaniaruquipa",
+        "pppoe": "P2_eliasmamaniaruquipa",
+        "ip": "172.171.1.62",
+        "estado": "online",
+        "nap": "NAP-DESCONOCIDO",
+        "x": -68.173,
+        "y": -16.5,
+        "ultima": 1753847390
+    },
+    "P2_rodrigoquisbertcodori": {
+        "nombre": "P2_rodrigoquisbertcodori",
+        "pppoe": "P2_rodrigoquisbertcodori",
+        "ip": "172.171.1.252",
+        "estado": "online",
+        "nap": "NAP-DESCONOCIDO",
+        "x": -68.1798,
+        "y": -16.5406,
+        "ultima": 1753847390
+    },
+    "P8_reneguaygualimachi": {
+        "nombre": "P8_reneguaygualimachi",
+        "pppoe": "P8_reneguaygualimachi",
+        "ip": "172.171.3.53",
+        "estado": "online",
+        "nap": "NAP-DESCONOCIDO",
+        "x": 111,
+        "y": -16.5368,
+        "ultima": 1753847390
+    },
+    "P3_remediospillcohuallpa": {
+        "nombre": "P3_remediospillcohuallpa",
+        "pppoe": "P3_remediospillcohuallpa",
+        "ip": "172.171.1.55",
+        "estado": "online",
+        "nap": "NAP-DESCONOCIDO",
+        "x": -68.1335,
+        "y": -16.4931,
+        "ultima": 1753847390
+    },
+    "P4_porfiriovegasillo": {
+        "nombre": "P4_porfiriovegasillo",
+        "pppoe": "P4_porfiriovegasillo",
+        "ip": "172.171.1.63",
+        "estado": "online",
+        "nap": "NAP-DESCONOCIDO",
+        "x": -68.12219999999999,
+        "y": -16.5331,
+        "ultima": 1753847390
+    },
+    "P7_paulapacovillaa": {
+        "nombre": "P7_paulapacovillaa",
+        "pppoe": "P7_paulapacovillaa",
+        "ip": "172.171.3.59",
+        "estado": "online",
+        "nap": "NAP-DESCONOCIDO",
+        "x": -68.08319999999999,
+        "y": -16.5268,
+        "ultima": 1753847390
+    },
+    "P7_jhonnycoachura": {
+        "nombre": "P7_jhonnycoachura",
+        "pppoe": "P7_jhonnycoachura",
+        "ip": "",
+        "estado": "offline",
+        "nap": "NAP-DESCONOCIDO",
+        "x": 125,
+        "y": -16.486,
+        "ultima": 1753822084
+    },
+    "P2-manuelalejandroquisbert": {
+        "nombre": "P2-manuelalejandroquisbert",
+        "pppoe": "P2-manuelalejandroquisbert",
+        "ip": "172.171.0.35",
+        "estado": "online",
+        "nap": "NAP-DESCONOCIDO",
+        "x": -68.1725,
+        "y": -16.5205,
+        "ultima": 1753847390
+    },
+    "P2_jhovanarojasquispe": {
+        "nombre": "P2_jhovanarojasquispe",
+        "pppoe": "P2_jhovanarojasquispe",
+        "ip": "172.171.1.67",
+        "estado": "online",
+        "nap": "NAP-DESCONOCIDO",
+        "x": -68.1612,
+        "y": -16.4857,
+        "ultima": 1753847390
+    },
+    "P1_osvaldomollecahuaya": {
+        "nombre": "P1_osvaldomollecahuaya",
+        "pppoe": "P1_osvaldomollecahuaya",
+        "ip": "172.171.0.44",
+        "estado": "online",
+        "nap": "NAP-DESCONOCIDO",
+        "x": 136,
+        "y": -16.4983,
+        "ultima": 1753847390
+    },
+    "P2_osmarcanuachavez": {
+        "nombre": "P2_osmarcanuachavez",
+        "pppoe": "P2_osmarcanuachavez",
+        "ip": "172.171.1.65",
+        "estado": "online",
+        "nap": "NAP-DESCONOCIDO",
+        "x": -68.1544,
+        "y": -16.4594,
+        "ultima": 1753847390
+    },
+    "P2_oscarchiricori": {
+        "nombre": "P2_oscarchiricori",
+        "pppoe": "P2_oscarchiricori",
+        "ip": "172.171.1.70",
+        "estado": "online",
+        "nap": "NAP-DESCONOCIDO",
+        "x": -68.0842,
+        "y": -16.5089,
+        "ultima": 1753847390
+    },
+    "P2_mateoguerraquispe": {
+        "nombre": "P2_mateoguerraquispe",
+        "pppoe": "P2_mateoguerraquispe",
+        "ip": "172.171.2.55",
+        "estado": "online",
+        "nap": "NAP-DESCONOCIDO",
+        "x": -68.1473,
+        "y": -16.4761,
+        "ultima": 1753847390
+    },
+    "P2_orlandomirandavargas": {
+        "nombre": "P2_orlandomirandavargas",
+        "pppoe": "P2_orlandomirandavargas",
+        "ip": "172.171.1.68",
+        "estado": "online",
+        "nap": "NAP-DESCONOCIDO",
+        "x": 101,
+        "y": -16.4682,
+        "ultima": 1753847390
+    },
+    "P6_normamamanicastro": {
+        "nombre": "P6_normamamanicastro",
+        "pppoe": "P6_normamamanicastro",
+        "ip": "172.171.0.51",
+        "estado": "online",
+        "nap": "NAP-DESCONOCIDO",
+        "x": -68.17699999999999,
+        "y": -16.5272,
+        "ultima": 1753847390
+    },
+    "P8-Nestorluquemamani": {
+        "nombre": "P8-Nestorluquemamani",
+        "pppoe": "P8-Nestorluquemamani",
+        "ip": "172.171.0.1",
+        "estado": "online",
+        "nap": "NAP-DESCONOCIDO",
+        "x": -68.1253,
+        "y": -16.5497,
+        "ultima": 1753847390
+    },
+    "P7_nestorhuallpapoma": {
+        "nombre": "P7_nestorhuallpapoma",
+        "pppoe": "P7_nestorhuallpapoma",
+        "ip": "",
+        "estado": "offline",
+        "nap": "NAP-DESCONOCIDO",
+        "x": -68.11439999999999,
+        "y": -16.4558,
+        "ultima": 1753152316
+    },
+    "P4_monicamamanifernandes": {
+        "nombre": "P4_monicamamanifernandes",
+        "pppoe": "P4_monicamamanifernandes",
+        "ip": "172.171.1.71",
+        "estado": "online",
+        "nap": "NAP-DESCONOCIDO",
+        "x": -68.1081,
+        "y": -16.5224,
+        "ultima": 1753847390
+    },
+    "P2_marcoantoniohuayhuacahuana": {
+        "nombre": "P2_marcoantoniohuayhuacahuana",
+        "pppoe": "P2_marcoantoniohuayhuacahuana",
+        "ip": "172.171.1.72",
+        "estado": "online",
+        "nap": "NAP-DESCONOCIDO",
+        "x": -68.1048,
+        "y": -16.5066,
+        "ultima": 1753847390
+    },
+    "P7_monicahuanacochoque": {
+        "nombre": "P7_monicahuanacochoque",
+        "pppoe": "P7_monicahuanacochoque",
+        "ip": "172.171.2.56",
+        "estado": "online",
+        "nap": "NAP-DESCONOCIDO",
+        "x": -68.12349999999999,
+        "y": -16.4781,
+        "ultima": 1753847390
+    },
+    "P1-milenkalimachiquispe": {
+        "nombre": "P1-milenkalimachiquispe",
+        "pppoe": "P1-milenkalimachiquispe",
+        "ip": "172.171.0.50",
+        "estado": "online",
+        "nap": "NAP-DESCONOCIDO",
+        "x": -68.1617,
+        "y": -16.4916,
+        "ultima": 1753847390
+    },
+    "P4_merymamanimacias": {
+        "nombre": "P4_merymamanimacias",
+        "pppoe": "P4_merymamanimacias",
+        "ip": "172.171.1.74",
+        "estado": "online",
+        "nap": "NAP-DESCONOCIDO",
+        "x": -68.17999999999999,
+        "y": -16.5266,
+        "ultima": 1753847390
+    },
+    "P3_maritzainescaceresibarra": {
+        "nombre": "P3_maritzainescaceresibarra",
+        "pppoe": "P3_maritzainescaceresibarra",
+        "ip": "172.171.1.61",
+        "estado": "online",
+        "nap": "NAP-DESCONOCIDO",
+        "x": -68.12989999999999,
+        "y": -16.505,
+        "ultima": 1753847390
+    },
+    "P9_luismiguelrojascopa": {
+        "nombre": "P9_luismiguelrojascopa",
+        "pppoe": "P9_luismiguelrojascopa",
+        "ip": "172.171.0.53",
+        "estado": "online",
+        "nap": "NAP-DESCONOCIDO",
+        "x": -68.15299999999999,
+        "y": -16.5221,
+        "ultima": 1753847390
+    },
+    "P6-marinacuno": {
+        "nombre": "P6-marinacuno",
+        "pppoe": "P6-marinacuno",
+        "ip": "172.171.1.75",
+        "estado": "online",
+        "nap": "NAP-DESCONOCIDO",
+        "x": -68.1142,
+        "y": -16.5315,
+        "ultima": 1753847390
+    },
+    "P6_mariasalomeapazacari": {
+        "nombre": "P6_mariasalomeapazacari",
+        "pppoe": "P6_mariasalomeapazacari",
+        "ip": "172.171.1.77",
+        "estado": "online",
+        "nap": "NAP-DESCONOCIDO",
+        "x": -68.1379,
+        "y": -16.5225,
+        "ultima": 1753847390
+    },
+    "P3-luisarmando": {
+        "nombre": "P3-luisarmando",
+        "pppoe": "P3-luisarmando",
+        "ip": "172.171.1.78",
+        "estado": "online",
+        "nap": "NAP-DESCONOCIDO",
+        "x": -68.1673,
+        "y": -16.5274,
+        "ultima": 1753847390
+    },
+    "P5-lidiaelenavallejoss": {
+        "nombre": "P5-lidiaelenavallejoss",
+        "pppoe": "P5-lidiaelenavallejoss",
+        "ip": "172.171.1.79",
+        "estado": "online",
+        "nap": "NAP-DESCONOCIDO",
+        "x": -68.0852,
+        "y": -16.5254,
+        "ultima": 1753847390
+    },
+    "P2_luciorivasquispe": {
+        "nombre": "P2_luciorivasquispe",
+        "pppoe": "P2_luciorivasquispe",
+        "ip": "172.171.1.76",
+        "estado": "online",
+        "nap": "NAP-DESCONOCIDO",
+        "x": -68.1768,
+        "y": -16.4522,
+        "ultima": 1753847390
+    },
+    "P3_luordescolquemamani": {
+        "nombre": "P3_luordescolquemamani",
+        "pppoe": "P3_luordescolquemamani",
+        "ip": "172.171.1.81",
+        "estado": "online",
+        "nap": "NAP-DESCONOCIDO",
+        "x": -68.17569999999999,
+        "y": -16.4915,
+        "ultima": 1753847390
+    },
+    "P2_lourdesvillamamani": {
+        "nombre": "P2_lourdesvillamamani",
+        "pppoe": "P2_lourdesvillamamani",
+        "ip": "172.171.0.57",
+        "estado": "online",
+        "nap": "NAP-DESCONOCIDO",
+        "x": 142,
+        "y": -16.4798,
+        "ultima": 1753847390
+    },
+    "P2_lolayujraquispe": {
+        "nombre": "P2_lolayujraquispe",
+        "pppoe": "P2_lolayujraquispe",
+        "ip": "172.171.1.80",
+        "estado": "online",
+        "nap": "NAP-DESCONOCIDO",
+        "x": -68.15899999999999,
+        "y": -16.5071,
+        "ultima": 1753847390
+    },
+    "P4_oquendoninajisela": {
+        "nombre": "P4_oquendoninajisela",
+        "pppoe": "P4_oquendoninajisela",
+        "ip": "172.171.1.83",
+        "estado": "online",
+        "nap": "NAP-DESCONOCIDO",
+        "x": 146,
+        "y": -16.4924,
+        "ultima": 1753847390
+    },
+    "P6_lilianagallegolaura": {
+        "nombre": "P6_lilianagallegolaura",
+        "pppoe": "P6_lilianagallegolaura",
+        "ip": "172.171.1.82",
+        "estado": "online",
+        "nap": "NAP-DESCONOCIDO",
+        "x": -68.142,
+        "y": -16.5156,
+        "ultima": 1753847390
+    },
+    "P6_lidiaquispequeda": {
+        "nombre": "P6_lidiaquispequeda",
+        "pppoe": "P6_lidiaquispequeda",
+        "ip": "172.171.0.248",
+        "estado": "online",
+        "nap": "NAP-DESCONOCIDO",
+        "x": -68.17399999999999,
+        "y": -16.4884,
+        "ultima": 1753847390
+    },
+    "P8-gustavocusimamani": {
+        "nombre": "P8-gustavocusimamani",
+        "pppoe": "P8-gustavocusimamani",
+        "ip": "172.171.2.253",
+        "estado": "online",
+        "nap": "NAP-DESCONOCIDO",
+        "x": -68.09259999999999,
+        "y": -16.5283,
+        "ultima": 1753847390
+    },
+    "P7_liduamamaniloza": {
+        "nombre": "P7_liduamamaniloza",
+        "pppoe": "P7_liduamamaniloza",
+        "ip": "172.171.0.60",
+        "estado": "online",
+        "nap": "NAP-DESCONOCIDO",
+        "x": -68.1009,
+        "y": -16.5255,
+        "ultima": 1753847390
+    },
+    "P5_juanvetoquispe": {
+        "nombre": "P5_juanvetoquispe",
+        "pppoe": "P5_juanvetoquispe",
+        "ip": "172.171.2.53",
+        "estado": "online",
+        "nap": "NAP-DESCONOCIDO",
+        "x": -68.0984,
+        "y": -16.4509,
+        "ultima": 1753847390
+    },
+    "P2_juanquispecanaviri": {
+        "nombre": "P2_juanquispecanaviri",
+        "pppoe": "P2_juanquispecanaviri",
+        "ip": "172.171.2.61",
+        "estado": "online",
+        "nap": "NAP-DESCONOCIDO",
+        "x": -68.1201,
+        "y": -16.4652,
+        "ultima": 1753847390
+    },
+    "P7_juandanielcaunacondorii": {
+        "nombre": "P7_juandanielcaunacondorii",
+        "pppoe": "P7_juandanielcaunacondorii",
+        "ip": "172.171.0.62",
+        "estado": "online",
+        "nap": "NAP-DESCONOCIDO",
+        "x": -68.0949,
+        "y": -16.4773,
+        "ultima": 1753847390
+    },
+    "P8-fredylaymemamani": {
+        "nombre": "P8-fredylaymemamani",
+        "pppoe": "P8-fredylaymemamani",
+        "ip": "172.171.1.86",
+        "estado": "online",
+        "nap": "NAP-DESCONOCIDO",
+        "x": 115,
+        "y": -16.5369,
+        "ultima": 1753847390
+    },
+    "P6-juancarloscondori": {
+        "nombre": "P6-juancarloscondori",
+        "pppoe": "P6-juancarloscondori",
+        "ip": "172.171.0.63",
+        "estado": "online",
+        "nap": "NAP-DESCONOCIDO",
+        "x": -68.0971,
+        "y": -16.5237,
+        "ultima": 1753847390
+    },
+    "P7_jorgechipanaY": {
+        "nombre": "P7_jorgechipanaY",
+        "pppoe": "P7_jorgechipanaY",
+        "ip": "172.171.1.84",
+        "estado": "online",
+        "nap": "NAP-DESCONOCIDO",
+        "x": -68.1612,
+        "y": -16.5157,
+        "ultima": 1753847390
+    },
+    "P2-Jhonnyed": {
+        "nombre": "P2-Jhonnyed",
+        "pppoe": "P2-Jhonnyed",
+        "ip": "172.171.0.65",
+        "estado": "online",
+        "nap": "NAP-DESCONOCIDO",
+        "x": -68.1539,
+        "y": -16.4831,
+        "ultima": 1753847390
+    },
+    "P4_jhanettolamachaca": {
+        "nombre": "P4_jhanettolamachaca",
+        "pppoe": "P4_jhanettolamachaca",
+        "ip": "172.171.1.88",
+        "estado": "online",
+        "nap": "NAP-DESCONOCIDO",
+        "x": -68.11149999999999,
+        "y": -16.513,
+        "ultima": 1753847390
+    },
+    "P3_hugojavieravendanoarcani": {
+        "nombre": "P3_hugojavieravendanoarcani",
+        "pppoe": "P3_hugojavieravendanoarcani",
+        "ip": "172.171.0.46",
+        "estado": "online",
+        "nap": "NAP-DESCONOCIDO",
+        "x": -68.1065,
+        "y": -16.5026,
+        "ultima": 1753847390
+    },
+    "P5_jhonatanmamamnimamani": {
+        "nombre": "P5_jhonatanmamamnimamani",
+        "pppoe": "P5_jhonatanmamamnimamani",
+        "ip": "172.171.2.83",
+        "estado": "online",
+        "nap": "NAP-DESCONOCIDO",
+        "x": -68.13159999999999,
+        "y": -16.5239,
+        "ultima": 1753847390
+    },
+    "P4_jhonnylimachimollocoaquira": {
+        "nombre": "P4_jhonnylimachimollocoaquira",
+        "pppoe": "P4_jhonnylimachimollocoaquira",
+        "ip": "172.171.2.68",
+        "estado": "online",
+        "nap": "NAP-DESCONOCIDO",
+        "x": -68.1691,
+        "y": -16.4996,
+        "ultima": 1753847390
+    },
+    "P5-jorgearuquipa": {
+        "nombre": "P5-jorgearuquipa",
+        "pppoe": "P5-jorgearuquipa",
+        "ip": "172.171.0.66",
+        "estado": "online",
+        "nap": "NAP-DESCONOCIDO",
+        "x": -68.1244,
+        "y": -16.4829,
+        "ultima": 1753847390
+    },
+    "P2_joseluisparedesgemio": {
+        "nombre": "P2_joseluisparedesgemio",
+        "pppoe": "P2_joseluisparedesgemio",
+        "ip": "172.171.0.77",
+        "estado": "online",
+        "nap": "NAP-DESCONOCIDO",
+        "x": -68.09639999999999,
+        "y": -16.5288,
+        "ultima": 1753847390
+    },
+    "P4_juanangelveramamani": {
+        "nombre": "P4_juanangelveramamani",
+        "pppoe": "P4_juanangelveramamani",
+        "ip": "172.171.1.93",
+        "estado": "online",
+        "nap": "NAP-DESCONOCIDO",
+        "x": -68.14099999999999,
+        "y": -16.508,
+        "ultima": 1753847390
+    },
+    "P3_juanaramayomamani": {
+        "nombre": "P3_juanaramayomamani",
+        "pppoe": "P3_juanaramayomamani",
+        "ip": "172.171.1.87",
+        "estado": "online",
+        "nap": "NAP-DESCONOCIDO",
+        "x": -68.1019,
+        "y": -16.4925,
+        "ultima": 1753847390
+    },
+    "P5_juancarloscallisayamamani": {
+        "nombre": "P5_juancarloscallisayamamani",
+        "pppoe": "P5_juancarloscallisayamamani",
+        "ip": "172.171.1.90",
+        "estado": "online",
+        "nap": "NAP-DESCONOCIDO",
+        "x": -68.10929999999999,
+        "y": -16.5421,
+        "ultima": 1753847390
+    },
+    "P2-juancarlospaucara": {
+        "nombre": "P2-juancarlospaucara",
+        "pppoe": "P2-juancarlospaucara",
+        "ip": "172.171.1.89",
+        "estado": "online",
+        "nap": "NAP-DESCONOCIDO",
+        "x": -68.1223,
+        "y": -16.5028,
+        "ultima": 1753847390
+    },
+    "P1_juanjesustallacagua": {
+        "nombre": "P1_juanjesustallacagua",
+        "pppoe": "P1_juanjesustallacagua",
+        "ip": "172.171.1.100",
+        "estado": "online",
+        "nap": "NAP-DESCONOCIDO",
+        "x": -68.16019999999999,
+        "y": -16.4602,
+        "ultima": 1753847390
+    },
+    "P8_juliatintabeltran": {
+        "nombre": "P8_juliatintabeltran",
+        "pppoe": "P8_juliatintabeltran",
+        "ip": "172.171.1.92",
+        "estado": "online",
+        "nap": "NAP-DESCONOCIDO",
+        "x": -68.1347,
+        "y": -16.5401,
+        "ultima": 1753847390
+    },
+    "P5_lidiamamanihuarachi": {
+        "nombre": "P5_lidiamamanihuarachi",
+        "pppoe": "P5_lidiamamanihuarachi",
+        "ip": "172.171.1.94",
+        "estado": "online",
+        "nap": "NAP-DESCONOCIDO",
+        "x": 131,
+        "y": -16.4887,
+        "ultima": 1753847390
+    },
+    "P3-lucialimachiquispe": {
+        "nombre": "P3-lucialimachiquispe",
+        "pppoe": "P3-lucialimachiquispe",
+        "ip": "172.171.1.91",
+        "estado": "online",
+        "nap": "NAP-DESCONOCIDO",
+        "x": -68.1475,
+        "y": -16.5014,
+        "ultima": 1753847390
+    },
+    "P6_lucrecianinaponce": {
+        "nombre": "P6_lucrecianinaponce",
+        "pppoe": "P6_lucrecianinaponce",
+        "ip": "172.171.1.96",
+        "estado": "online",
+        "nap": "NAP-DESCONOCIDO",
+        "x": 158,
+        "y": -16.5234,
+        "ultima": 1753847390
+    },
+    "P7_luizpablomamanicoa": {
+        "nombre": "P7_luizpablomamanicoa",
+        "pppoe": "P7_luizpablomamanicoa",
+        "ip": "172.171.1.14",
+        "estado": "online",
+        "nap": "NAP-DESCONOCIDO",
+        "x": 103,
+        "y": -16.454,
+        "ultima": 1753847390
+    },
+    "P4_luisangelgutierrez": {
+        "nombre": "P4_luisangelgutierrez",
+        "pppoe": "P4_luisangelgutierrez",
+        "ip": "172.171.1.98",
+        "estado": "online",
+        "nap": "NAP-DESCONOCIDO",
+        "x": -68.1768,
+        "y": -16.4716,
+        "ultima": 1753847390
+    },
+    "P2_nellyticonacayllante": {
+        "nombre": "P2_nellyticonacayllante",
+        "pppoe": "P2_nellyticonacayllante",
+        "ip": "172.171.1.95",
+        "estado": "online",
+        "nap": "NAP-DESCONOCIDO",
+        "x": -68.1713,
+        "y": -16.5137,
+        "ultima": 1753847390
+    },
+    "P7_luisfernandoquenallataquispe": {
+        "nombre": "P7_luisfernandoquenallataquispe",
+        "pppoe": "P7_luisfernandoquenallataquispe",
+        "ip": "172.171.1.101",
+        "estado": "online",
+        "nap": "NAP-DESCONOCIDO",
+        "x": -68.1347,
+        "y": -16.4527,
+        "ultima": 1753847390
+    },
+    "P4-madaideynaflorian": {
+        "nombre": "P4-madaideynaflorian",
+        "pppoe": "P4-madaideynaflorian",
+        "ip": "172.171.1.102",
+        "estado": "online",
+        "nap": "NAP-DESCONOCIDO",
+        "x": -68.1484,
+        "y": -16.4842,
+        "ultima": 1753847390
+    },
+    "P4_magallimamaniquecana": {
+        "nombre": "P4_magallimamaniquecana",
+        "pppoe": "P4_magallimamaniquecana",
+        "ip": "172.171.1.99",
+        "estado": "online",
+        "nap": "NAP-DESCONOCIDO",
+        "x": -68.1677,
+        "y": -16.5112,
+        "ultima": 1753847390
+    },
+    "P4_marcelinoquispequispe": {
+        "nombre": "P4_marcelinoquispequispe",
+        "pppoe": "P4_marcelinoquispequispe",
+        "ip": "172.171.2.220",
+        "estado": "online",
+        "nap": "NAP-DESCONOCIDO",
+        "x": -68.16239999999999,
+        "y": -16.5111,
+        "ultima": 1753847390
+    },
+    "P1_mariadeliachoquehuanca": {
+        "nombre": "P1_mariadeliachoquehuanca",
+        "pppoe": "P1_mariadeliachoquehuanca",
+        "ip": "172.171.1.254",
+        "estado": "online",
+        "nap": "NAP-DESCONOCIDO",
+        "x": -68.1099,
+        "y": -16.4784,
+        "ultima": 1753847390
+    },
+    "P2P1_mariajacintacondoriajno": {
+        "nombre": "P2P1_mariajacintacondoriajno",
+        "pppoe": "P2P1_mariajacintacondoriajno",
+        "ip": "",
+        "estado": "offline",
+        "nap": "NAP-DESCONOCIDO",
+        "x": -68.0992,
+        "y": -16.4951,
+        "ultima": 1752855285
+    },
+    "P8_marthasosamachaca": {
+        "nombre": "P8_marthasosamachaca",
+        "pppoe": "P8_marthasosamachaca",
+        "ip": "172.171.1.105",
+        "estado": "online",
+        "nap": "NAP-DESCONOCIDO",
+        "x": -68.1137,
+        "y": -16.5458,
+        "ultima": 1753847390
+    },
+    "P2_maximaadelaavircata": {
+        "nombre": "P2_maximaadelaavircata",
+        "pppoe": "P2_maximaadelaavircata",
+        "ip": "172.171.1.140",
+        "estado": "online",
+        "nap": "NAP-DESCONOCIDO",
+        "x": 157,
+        "y": -16.5333,
+        "ultima": 1753847390
+    },
+    "P3_miltonpallaricopuni": {
+        "nombre": "P3_miltonpallaricopuni",
+        "pppoe": "P3_miltonpallaricopuni",
+        "ip": "172.171.1.124",
+        "estado": "online",
+        "nap": "NAP-DESCONOCIDO",
+        "x": -68.1563,
+        "y": -16.5077,
+        "ultima": 1753847390
+    },
+    "P3_narcisoperca": {
+        "nombre": "P3_narcisoperca",
+        "pppoe": "P3_narcisoperca",
+        "ip": "172.171.0.83",
+        "estado": "online",
+        "nap": "NAP-DESCONOCIDO",
+        "x": -68.0833,
+        "y": -16.4748,
+        "ultima": 1753847390
+    },
+    "P7_nelsoncapariconahilari": {
+        "nombre": "P7_nelsoncapariconahilari",
+        "pppoe": "P7_nelsoncapariconahilari",
+        "ip": "172.171.1.117",
+        "estado": "online",
+        "nap": "NAP-DESCONOCIDO",
+        "x": -68.1036,
+        "y": -16.5282,
+        "ultima": 1753847390
+    },
+    "P3_nickydanielcoranimiranda": {
+        "nombre": "P3_nickydanielcoranimiranda",
+        "pppoe": "P3_nickydanielcoranimiranda",
+        "ip": "172.171.1.106",
+        "estado": "online",
+        "nap": "NAP-DESCONOCIDO",
+        "x": -68.1425,
+        "y": -16.537,
+        "ultima": 1753847390
+    },
+    "P5-ofeliacolquelimachii": {
+        "nombre": "P5-ofeliacolquelimachii",
+        "pppoe": "P5-ofeliacolquelimachii",
+        "ip": "172.171.0.64",
+        "estado": "online",
+        "nap": "NAP-DESCONOCIDO",
+        "x": -68.1006,
+        "y": -16.5396,
+        "ultima": 1753847390
+    },
+    "P7_olegariosankacalla": {
+        "nombre": "P7_olegariosankacalla",
+        "pppoe": "P7_olegariosankacalla",
+        "ip": "172.171.1.103",
+        "estado": "online",
+        "nap": "NAP-DESCONOCIDO",
+        "x": -68.1533,
+        "y": -16.4614,
+        "ultima": 1753847390
+    },
+    "P4_oscarramoschoquehuanca": {
+        "nombre": "P4_oscarramoschoquehuanca",
+        "pppoe": "P4_oscarramoschoquehuanca",
+        "ip": "172.171.2.63",
+        "estado": "online",
+        "nap": "NAP-DESCONOCIDO",
+        "x": -68.17559999999999,
+        "y": -16.5221,
+        "ultima": 1753847390
+    },
+    "P7-ronaleliasvargas": {
+        "nombre": "P7-ronaleliasvargas",
+        "pppoe": "P7-ronaleliasvargas",
+        "ip": "172.171.0.72",
+        "estado": "online",
+        "nap": "NAP-DESCONOCIDO",
+        "x": -68.167,
+        "y": -16.5114,
+        "ultima": 1753847390
+    },
+    "P4-panfilovillalba": {
+        "nombre": "P4-panfilovillalba",
+        "pppoe": "P4-panfilovillalba",
+        "ip": "172.171.2.66",
+        "estado": "online",
+        "nap": "NAP-DESCONOCIDO",
+        "x": -68.1302,
+        "y": -16.5397,
+        "ultima": 1753847390
+    },
+    "P4_paulajhovananinakalla": {
+        "nombre": "P4_paulajhovananinakalla",
+        "pppoe": "P4_paulajhovananinakalla",
+        "ip": "172.171.2.67",
+        "estado": "online",
+        "nap": "NAP-DESCONOCIDO",
+        "x": -68.12509999999999,
+        "y": -16.4841,
+        "ultima": 1753847390
+    },
+    "P3_ronaldabeloquispe": {
+        "nombre": "P3_ronaldabeloquispe",
+        "pppoe": "P3_ronaldabeloquispe",
+        "ip": "172.171.0.115",
+        "estado": "online",
+        "nap": "NAP-DESCONOCIDO",
+        "x": -68.1133,
+        "y": -16.5326,
+        "ultima": 1753847390
+    },
+    "P5_placidocolquelimachi": {
+        "nombre": "P5_placidocolquelimachi",
+        "pppoe": "P5_placidocolquelimachi",
+        "ip": "172.171.2.71",
+        "estado": "online",
+        "nap": "NAP-DESCONOCIDO",
+        "x": -68.1554,
+        "y": -16.4632,
+        "ultima": 1753847390
+    },
+    "P7_ramiroamericocahuanachuilla": {
+        "nombre": "P7_ramiroamericocahuanachuilla",
+        "pppoe": "P7_ramiroamericocahuanachuilla",
+        "ip": "172.171.1.107",
+        "estado": "online",
+        "nap": "NAP-DESCONOCIDO",
+        "x": -68.1488,
+        "y": -16.4799,
+        "ultima": 1753847390
+    },
+    "P8-ronynelsonchambi": {
+        "nombre": "P8-ronynelsonchambi",
+        "pppoe": "P8-ronynelsonchambi",
+        "ip": "172.171.2.90",
+        "estado": "online",
+        "nap": "NAP-DESCONOCIDO",
+        "x": -68.1284,
+        "y": -16.4793,
+        "ultima": 1753847390
+    },
+    "P7_raymundaquispeluqe": {
+        "nombre": "P7_raymundaquispeluqe",
+        "pppoe": "P7_raymundaquispeluqe",
+        "ip": "172.171.1.109",
+        "estado": "online",
+        "nap": "NAP-DESCONOCIDO",
+        "x": -68.17229999999999,
+        "y": -16.5357,
+        "ultima": 1753847390
+    },
+    "P1-sandrochoque": {
+        "nombre": "P1-sandrochoque",
+        "pppoe": "P1-sandrochoque",
+        "ip": "172.171.2.91",
+        "estado": "online",
+        "nap": "NAP-DESCONOCIDO",
+        "x": -68.0818,
+        "y": -16.4809,
+        "ultima": 1753847390
+    },
+    "P7_renemamaniticona": {
+        "nombre": "P7_renemamaniticona",
+        "pppoe": "P7_renemamaniticona",
+        "ip": "172.171.1.110",
+        "estado": "online",
+        "nap": "NAP-DESCONOCIDO",
+        "x": -68.09949999999999,
+        "y": -16.5413,
+        "ultima": 1753847390
+    },
+    "P7_santiagolluscocolque": {
+        "nombre": "P7_santiagolluscocolque",
+        "pppoe": "P7_santiagolluscocolque",
+        "ip": "172.171.0.91",
+        "estado": "online",
+        "nap": "NAP-DESCONOCIDO",
+        "x": -68.1392,
+        "y": -16.548,
+        "ultima": 1753847390
+    },
+    "P9_ritaaltamiranoreas": {
+        "nombre": "P9_ritaaltamiranoreas",
+        "pppoe": "P9_ritaaltamiranoreas",
+        "ip": "172.171.2.69",
+        "estado": "online",
+        "nap": "NAP-DESCONOCIDO",
+        "x": -68.1053,
+        "y": -16.4565,
+        "ultima": 1753847390
+    },
+    "P8_ritalucymoyatito": {
+        "nombre": "P8_ritalucymoyatito",
+        "pppoe": "P8_ritalucymoyatito",
+        "ip": "172.171.1.111",
+        "estado": "online",
+        "nap": "NAP-DESCONOCIDO",
+        "x": -68.10369999999999,
+        "y": -16.5137,
+        "ultima": 1753847390
+    },
+    "P9_sandracapariconachoquehuanca": {
+        "nombre": "P9_sandracapariconachoquehuanca",
+        "pppoe": "P9_sandracapariconachoquehuanca",
+        "ip": "172.171.0.92",
+        "estado": "online",
+        "nap": "NAP-DESCONOCIDO",
+        "x": -68.1362,
+        "y": -16.5266,
+        "ultima": 1753847390
+    },
+    "P5_rodrigoapazafernandez": {
+        "nombre": "P5_rodrigoapazafernandez",
+        "pppoe": "P5_rodrigoapazafernandez",
+        "ip": "172.171.1.144",
+        "estado": "online",
+        "nap": "NAP-DESCONOCIDO",
+        "x": -68.1712,
+        "y": -16.4922,
+        "ultima": 1753847390
+    },
+    "P5_teodociolevandrocutile": {
+        "nombre": "P5_teodociolevandrocutile",
+        "pppoe": "P5_teodociolevandrocutile",
+        "ip": "172.171.0.86",
+        "estado": "online",
+        "nap": "NAP-DESCONOCIDO",
+        "x": -68.16029999999999,
+        "y": -16.4605,
+        "ultima": 1753847390
+    },
+    "P3-rogereliasloayza": {
+        "nombre": "P3-rogereliasloayza",
+        "pppoe": "P3-rogereliasloayza",
+        "ip": "172.171.1.113",
+        "estado": "online",
+        "nap": "NAP-DESCONOCIDO",
+        "x": 155,
+        "y": -16.5383,
+        "ultima": 1753847390
+    },
+    "P8_agustinajustocondori": {
+        "nombre": "P8_agustinajustocondori",
+        "pppoe": "P8_agustinajustocondori",
+        "ip": "172.171.0.79",
+        "estado": "online",
+        "nap": "NAP-DESCONOCIDO",
+        "x": -68.1408,
+        "y": -16.5046,
+        "ultima": 1753847390
+    },
+    "P6_rosapacosilloticona": {
+        "nombre": "P6_rosapacosilloticona",
+        "pppoe": "P6_rosapacosilloticona",
+        "ip": "172.171.1.253",
+        "estado": "online",
+        "nap": "NAP-DESCONOCIDO",
+        "x": 164,
+        "y": -16.5319,
+        "ultima": 1753847390
+    },
+    "P6-rubenpaucaraquisp": {
+        "nombre": "P6-rubenpaucaraquisp",
+        "pppoe": "P6-rubenpaucaraquisp",
+        "ip": "172.171.1.114",
+        "estado": "online",
+        "nap": "NAP-DESCONOCIDO",
+        "x": -68.1415,
+        "y": -16.5109,
+        "ultima": 1753847390
+    },
+    "P4_wilmervargaschoque": {
+        "nombre": "P4_wilmervargaschoque",
+        "pppoe": "P4_wilmervargaschoque",
+        "ip": "172.171.0.85",
+        "estado": "online",
+        "nap": "NAP-DESCONOCIDO",
+        "x": -68.08399999999999,
+        "y": -16.46,
+        "ultima": 1753847390
+    },
+    "P4_sandraaltamiranorojas": {
+        "nombre": "P4_sandraaltamiranorojas",
+        "pppoe": "P4_sandraaltamiranorojas",
+        "ip": "172.171.2.18",
+        "estado": "online",
+        "nap": "NAP-DESCONOCIDO",
+        "x": -68.16879999999999,
+        "y": -16.4685,
+        "ultima": 1753847390
+    },
+    "P4_saturninahuancadequispe": {
+        "nombre": "P4_saturninahuancadequispe",
+        "pppoe": "P4_saturninahuancadequispe",
+        "ip": "172.171.1.97",
+        "estado": "online",
+        "nap": "NAP-DESCONOCIDO",
+        "x": -68.1011,
+        "y": -16.4805,
+        "ultima": 1753847390
+    },
+    "P9_alfredomamanihuanca": {
+        "nombre": "P9_alfredomamanihuanca",
+        "pppoe": "P9_alfredomamanihuanca",
+        "ip": "172.171.0.96",
+        "estado": "online",
+        "nap": "NAP-DESCONOCIDO",
+        "x": 110,
+        "y": -16.5032,
+        "ultima": 1753847390
+    },
+    "P7sergiogustavomorenosalazar": {
+        "nombre": "P7sergiogustavomorenosalazar",
+        "pppoe": "P7sergiogustavomorenosalazar",
+        "ip": "172.171.1.115",
+        "estado": "online",
+        "nap": "NAP-DESCONOCIDO",
+        "x": -68.1096,
+        "y": -16.4678,
+        "ultima": 1753847390
+    },
+    "P6_basiliachavesapaza": {
+        "nombre": "P6_basiliachavesapaza",
+        "pppoe": "P6_basiliachavesapaza",
+        "ip": "172.171.0.110",
+        "estado": "online",
+        "nap": "NAP-DESCONOCIDO",
+        "x": -68.16959999999999,
+        "y": -16.4554,
+        "ultima": 1753847390
+    },
+    "P2_victormiltonquisbertvillca": {
+        "nombre": "P2_victormiltonquisbertvillca",
+        "pppoe": "P2_victormiltonquisbertvillca",
+        "ip": "172.171.1.120",
+        "estado": "online",
+        "nap": "NAP-DESCONOCIDO",
+        "x": -68.1229,
+        "y": -16.5091,
+        "ultima": 1753847390
+    },
+    "P8_vladimircacerescallysaya": {
+        "nombre": "P8_vladimircacerescallysaya",
+        "pppoe": "P8_vladimircacerescallysaya",
+        "ip": "172.171.1.116",
+        "estado": "online",
+        "nap": "NAP-DESCONOCIDO",
+        "x": -68.16839999999999,
+        "y": -16.5344,
+        "ultima": 1753847390
+    },
+    "P8_armandochambiquispe": {
+        "nombre": "P8_armandochambiquispe",
+        "pppoe": "P8_armandochambiquispe",
+        "ip": "172.171.0.99",
+        "estado": "online",
+        "nap": "NAP-DESCONOCIDO",
+        "x": -68.12729999999999,
+        "y": -16.4567,
+        "ultima": 1753847390
+    },
+    "P2_vladimirjustoapaza": {
+        "nombre": "P2_vladimirjustoapaza",
+        "pppoe": "P2_vladimirjustoapaza",
+        "ip": "172.171.1.150",
+        "estado": "online",
+        "nap": "NAP-DESCONOCIDO",
+        "x": -68.1529,
+        "y": -16.5475,
+        "ultima": 1753847390
+    },
+    "P2_amaliacondoriarias": {
+        "nombre": "P2_amaliacondoriarias",
+        "pppoe": "P2_amaliacondoriarias",
+        "ip": "172.171.0.70",
+        "estado": "online",
+        "nap": "NAP-DESCONOCIDO",
+        "x": -68.164,
+        "y": -16.4547,
+        "ultima": 1753847390
+    },
+    "P4_brayanchoquecondori": {
+        "nombre": "P4_brayanchoquecondori",
+        "pppoe": "P4_brayanchoquecondori",
+        "ip": "172.171.0.103",
+        "estado": "online",
+        "nap": "NAP-DESCONOCIDO",
+        "x": -68.16919999999999,
+        "y": -16.4593,
+        "ultima": 1753847390
+    },
+    "P8_alexmachacapoma": {
+        "nombre": "P8_alexmachacapoma",
+        "pppoe": "P8_alexmachacapoma",
+        "ip": "172.171.1.119",
+        "estado": "online",
+        "nap": "NAP-DESCONOCIDO",
+        "x": 133,
+        "y": -16.5006,
+        "ultima": 1753847390
+    },
+    "P6-alfredotitiricocallisaya": {
+        "nombre": "P6-alfredotitiricocallisaya",
+        "pppoe": "P6-alfredotitiricocallisaya",
+        "ip": "172.171.1.123",
+        "estado": "online",
+        "nap": "NAP-DESCONOCIDO",
+        "x": 179,
+        "y": -16.5223,
+        "ultima": 1753847390
+    },
+    "P4_bidaurrecayllantequenta": {
+        "nombre": "P4_bidaurrecayllantequenta",
+        "pppoe": "P4_bidaurrecayllantequenta",
+        "ip": "172.171.0.101",
+        "estado": "online",
+        "nap": "NAP-DESCONOCIDO",
+        "x": -68.1021,
+        "y": -16.5354,
+        "ultima": 1753847390
+    },
+    "P3_alfredoapazacalamani": {
+        "nombre": "P3_alfredoapazacalamani",
+        "pppoe": "P3_alfredoapazacalamani",
+        "ip": "172.171.1.121",
+        "estado": "online",
+        "nap": "NAP-DESCONOCIDO",
+        "x": -68.1271,
+        "y": -16.5399,
+        "ultima": 1753847390
+    },
+    "P8_renemoisesparra": {
+        "nombre": "P8_renemoisesparra",
+        "pppoe": "P8_renemoisesparra",
+        "ip": "172.171.1.127",
+        "estado": "online",
+        "nap": "NAP-DESCONOCIDO",
+        "x": -68.1259,
+        "y": -16.468,
+        "ultima": 1753847390
+    },
+    "P6_berthacuno": {
+        "nombre": "P6_berthacuno",
+        "pppoe": "P6_berthacuno",
+        "ip": "172.171.1.126",
+        "estado": "online",
+        "nap": "NAP-DESCONOCIDO",
+        "x": -68.13199999999999,
+        "y": -16.4646,
+        "ultima": 1753847390
+    },
+    "P7_candelariaquenallata": {
+        "nombre": "P7_candelariaquenallata",
+        "pppoe": "P7_candelariaquenallata",
+        "ip": "172.171.1.128",
+        "estado": "online",
+        "nap": "NAP-DESCONOCIDO",
+        "x": -68.0869,
+        "y": -16.5434,
+        "ultima": 1753847390
+    },
+    "P2-celinarodriguezquispe": {
+        "nombre": "P2-celinarodriguezquispe",
+        "pppoe": "P2-celinarodriguezquispe",
+        "ip": "172.171.1.118",
+        "estado": "online",
+        "nap": "NAP-DESCONOCIDO",
+        "x": -68.1009,
+        "y": -16.4667,
+        "ultima": 1753847390
+    },
+    "P6-cesaehoseynquentalayme": {
+        "nombre": "P6-cesaehoseynquentalayme",
+        "pppoe": "P6-cesaehoseynquentalayme",
+        "ip": "172.171.1.131",
+        "estado": "online",
+        "nap": "NAP-DESCONOCIDO",
+        "x": -68.1426,
+        "y": -16.4947,
+        "ultima": 1753847390
+    },
+    "P5_crispinquispearanda": {
+        "nombre": "P5_crispinquispearanda",
+        "pppoe": "P5_crispinquispearanda",
+        "ip": "172.171.1.130",
+        "estado": "online",
+        "nap": "NAP-DESCONOCIDO",
+        "x": -68.0925,
+        "y": -16.548,
+        "ultima": 1753847390
+    },
+    "P3_edwincallisayajuaraite": {
+        "nombre": "P3_edwincallisayajuaraite",
+        "pppoe": "P3_edwincallisayajuaraite",
+        "ip": "172.171.0.107",
+        "estado": "online",
+        "nap": "NAP-DESCONOCIDO",
+        "x": -68.1777,
+        "y": -16.5417,
+        "ultima": 1753847390
+    },
+    "P7_cristianlozasilvestre": {
+        "nombre": "P7_cristianlozasilvestre",
+        "pppoe": "P7_cristianlozasilvestre",
+        "ip": "172.171.1.133",
+        "estado": "online",
+        "nap": "NAP-DESCONOCIDO",
+        "x": -68.1193,
+        "y": -16.4795,
+        "ultima": 1753847390
+    },
+    "P7_edgarquispemachaca": {
+        "nombre": "P7_edgarquispemachaca",
+        "pppoe": "P7_edgarquispemachaca",
+        "ip": "172.171.0.93",
+        "estado": "online",
+        "nap": "NAP-DESCONOCIDO",
+        "x": -68.1171,
+        "y": -16.4722,
+        "ultima": 1753847390
+    },
+    "P7-cristinachoque": {
+        "nombre": "P7-cristinachoque",
+        "pppoe": "P7-cristinachoque",
+        "ip": "172.171.1.134",
+        "estado": "online",
+        "nap": "NAP-DESCONOCIDO",
+        "x": -68.1231,
+        "y": -16.4566,
+        "ultima": 1753847390
+    },
+    "P3_danielquentahuanca": {
+        "nombre": "P3_danielquentahuanca",
+        "pppoe": "P3_danielquentahuanca",
+        "ip": "172.171.1.108",
+        "estado": "online",
+        "nap": "NAP-DESCONOCIDO",
+        "x": -68.16199999999999,
+        "y": -16.4974,
+        "ultima": 1753847390
+    },
+    "P4_eliseoninatipula": {
+        "nombre": "P4_eliseoninatipula",
+        "pppoe": "P4_eliseoninatipula",
+        "ip": "172.171.0.88",
+        "estado": "online",
+        "nap": "NAP-DESCONOCIDO",
+        "x": -68.1308,
+        "y": -16.5466,
+        "ultima": 1753847390
+    },
+    "P_davidmachacacondori": {
+        "nombre": "P_davidmachacacondori",
+        "pppoe": "P_davidmachacacondori",
+        "ip": "172.171.1.136",
+        "estado": "online",
+        "nap": "NAP-DESCONOCIDO",
+        "x": -68.112,
+        "y": -16.5402,
+        "ultima": 1753847390
+    },
+    "P7_felixpanaguaquispe": {
+        "nombre": "P7_felixpanaguaquispe",
+        "pppoe": "P7_felixpanaguaquispe",
+        "ip": "172.171.0.108",
+        "estado": "online",
+        "nap": "NAP-DESCONOCIDO",
+        "x": -68.1327,
+        "y": -16.4928,
+        "ultima": 1753847390
+    },
+    "P1_diegoramirezticona": {
+        "nombre": "P1_diegoramirezticona",
+        "pppoe": "P1_diegoramirezticona",
+        "ip": "172.171.1.137",
+        "estado": "online",
+        "nap": "NAP-DESCONOCIDO",
+        "x": -68.1738,
+        "y": -16.4539,
+        "ultima": 1753847390
+    },
+    "P6_felipesurcolayme": {
+        "nombre": "P6_felipesurcolayme",
+        "pppoe": "P6_felipesurcolayme",
+        "ip": "172.171.0.87",
+        "estado": "online",
+        "nap": "NAP-DESCONOCIDO",
+        "x": -68.14659999999999,
+        "y": -16.5401,
+        "ultima": 1753847390
+    },
+    "P8-edgarmamaniaquice": {
+        "nombre": "P8-edgarmamaniaquice",
+        "pppoe": "P8-edgarmamaniaquice",
+        "ip": "172.171.1.132",
+        "estado": "online",
+        "nap": "NAP-DESCONOCIDO",
+        "x": -68.125,
+        "y": -16.5222,
+        "ultima": 1753847390
+    },
+    "P3-cristiankatunta": {
+        "nombre": "P3-cristiankatunta",
+        "pppoe": "P3-cristiankatunta",
+        "ip": "172.171.1.139",
+        "estado": "online",
+        "nap": "NAP-DESCONOCIDO",
+        "x": 133,
+        "y": -16.5257,
+        "ultima": 1753847390
+    },
+    "P2_franklincoaritecondori": {
+        "nombre": "P2_franklincoaritecondori",
+        "pppoe": "P2_franklincoaritecondori",
+        "ip": "172.171.0.250",
+        "estado": "online",
+        "nap": "NAP-DESCONOCIDO",
+        "x": -68.0962,
+        "y": -16.4755,
+        "ultima": 1753847390
+    },
+    "P9_edithtaniaangulomamani": {
+        "nombre": "P9_edithtaniaangulomamani",
+        "pppoe": "P9_edithtaniaangulomamani",
+        "ip": "172.171.0.75",
+        "estado": "online",
+        "nap": "NAP-DESCONOCIDO",
+        "x": -68.1463,
+        "y": -16.5447,
+        "ultima": 1753847390
+    },
+    "P8_eliseomamaniquispe": {
+        "nombre": "P8_eliseomamaniquispe",
+        "pppoe": "P8_eliseomamaniquispe",
+        "ip": "172.171.0.229",
+        "estado": "online",
+        "nap": "NAP-DESCONOCIDO",
+        "x": -68.1409,
+        "y": -16.542,
+        "ultima": 1753847390
+    },
+    "P8_eduardomamaniramirez": {
+        "nombre": "P8_eduardomamaniramirez",
+        "pppoe": "P8_eduardomamaniramirez",
+        "ip": "172.171.1.138",
+        "estado": "online",
+        "nap": "NAP-DESCONOCIDO",
+        "x": -68.0915,
+        "y": -16.5068,
+        "ultima": 1753847390
+    },
+    "P8_fidelyapuchuramachaca": {
+        "nombre": "P8_fidelyapuchuramachaca",
+        "pppoe": "P8_fidelyapuchuramachaca",
+        "ip": "172.171.0.112",
+        "estado": "online",
+        "nap": "NAP-DESCONOCIDO",
+        "x": -68.1606,
+        "y": -16.4683,
+        "ultima": 1753847390
+    },
+    "P4_efrainrodrigolimachi": {
+        "nombre": "P4_efrainrodrigolimachi",
+        "pppoe": "P4_efrainrodrigolimachi",
+        "ip": "172.171.1.230",
+        "estado": "online",
+        "nap": "NAP-DESCONOCIDO",
+        "x": -68.1584,
+        "y": -16.509,
+        "ultima": 1753847390
+    },
+    "P4_eliasfloreslimachi": {
+        "nombre": "P4_eliasfloreslimachi",
+        "pppoe": "P4_eliasfloreslimachi",
+        "ip": "172.171.1.142",
+        "estado": "online",
+        "nap": "NAP-DESCONOCIDO",
+        "x": -68.13669999999999,
+        "y": -16.4996,
+        "ultima": 1753847390
+    },
+    "P4_fredycanascoparedes": {
+        "nombre": "P4_fredycanascoparedes",
+        "pppoe": "P4_fredycanascoparedes",
+        "ip": "172.171.0.105",
+        "estado": "online",
+        "nap": "NAP-DESCONOCIDO",
+        "x": -68.1143,
+        "y": -16.5177,
+        "ultima": 1753847390
+    },
+    "P6_felixvillanuevamamani": {
+        "nombre": "P6_felixvillanuevamamani",
+        "pppoe": "P6_felixvillanuevamamani",
+        "ip": "172.171.1.129",
+        "estado": "online",
+        "nap": "NAP-DESCONOCIDO",
+        "x": -68.08539999999999,
+        "y": -16.4868,
+        "ultima": 1753847390
+    },
+    "P7_jesicacallaquisp": {
+        "nombre": "P7_jesicacallaquisp",
+        "pppoe": "P7_jesicacallaquisp",
+        "ip": "172.171.0.106",
+        "estado": "online",
+        "nap": "NAP-DESCONOCIDO",
+        "x": -68.1442,
+        "y": -16.5416,
+        "ultima": 1753847390
+    },
+    "P3_ivanpazmamani": {
+        "nombre": "P3_ivanpazmamani",
+        "pppoe": "P3_ivanpazmamani",
+        "ip": "172.171.0.109",
+        "estado": "online",
+        "nap": "NAP-DESCONOCIDO",
+        "x": -68.09949999999999,
+        "y": -16.4624,
+        "ultima": 1753847390
+    },
+    "P3_franzedgarlimachiticona": {
+        "nombre": "P3_franzedgarlimachiticona",
+        "pppoe": "P3_franzedgarlimachiticona",
+        "ip": "172.171.0.61",
+        "estado": "online",
+        "nap": "NAP-DESCONOCIDO",
+        "x": -68.13119999999999,
+        "y": -16.5187,
+        "ultima": 1753847390
+    },
+    "P8_jhanetgabrielahilayacondori": {
+        "nombre": "P8_jhanetgabrielahilayacondori",
+        "pppoe": "P8_jhanetgabrielahilayacondori",
+        "ip": "172.171.0.74",
+        "estado": "online",
+        "nap": "NAP-DESCONOCIDO",
+        "x": -68.13369999999999,
+        "y": -16.4957,
+        "ultima": 1753847390
+    },
+    "P4_gustavomamanisurco": {
+        "nombre": "P4_gustavomamanisurco",
+        "pppoe": "P4_gustavomamanisurco",
+        "ip": "172.171.1.143",
+        "estado": "online",
+        "nap": "NAP-DESCONOCIDO",
+        "x": -68.0816,
+        "y": -16.4932,
+        "ultima": 1753847390
+    },
+    "P2_flavianolipa": {
+        "nombre": "P2_flavianolipa",
+        "pppoe": "P2_flavianolipa",
+        "ip": "172.171.0.125",
+        "estado": "online",
+        "nap": "NAP-DESCONOCIDO",
+        "x": -68.1022,
+        "y": -16.4897,
+        "ultima": 1753847390
+    },
+    "P1_danielateresahuacaramirez": {
+        "nombre": "P1_danielateresahuacaramirez",
+        "pppoe": "P1_danielateresahuacaramirez",
+        "ip": "172.171.2.74",
+        "estado": "online",
+        "nap": "NAP-DESCONOCIDO",
+        "x": -68.1775,
+        "y": -16.5048,
+        "ultima": 1753847390
+    },
+    "P6-alfredolazovillca": {
+        "nombre": "P6-alfredolazovillca",
+        "pppoe": "P6-alfredolazovillca",
+        "ip": "172.171.1.6",
+        "estado": "online",
+        "nap": "NAP-DESCONOCIDO",
+        "x": -68.1451,
+        "y": -16.4911,
+        "ultima": 1753847390
+    },
+    "P2_abnerdavidescobarmamani": {
+        "nombre": "P2_abnerdavidescobarmamani",
+        "pppoe": "P2_abnerdavidescobarmamani",
+        "ip": "172.171.3.58",
+        "estado": "online",
+        "nap": "NAP-DESCONOCIDO",
+        "x": -68.12339999999999,
+        "y": -16.4813,
+        "ultima": 1753847390
+    },
+    "P_mariafernandaquispe": {
+        "nombre": "P_mariafernandaquispe",
+        "pppoe": "P_mariafernandaquispe",
+        "ip": "172.171.1.203",
+        "estado": "online",
+        "nap": "NAP-DESCONOCIDO",
+        "x": -68.1386,
+        "y": -16.4748,
+        "ultima": 1753847390
+    },
+    "P5_griseldaramosquispe": {
+        "nombre": "P5_griseldaramosquispe",
+        "pppoe": "P5_griseldaramosquispe",
+        "ip": "172.171.3.245",
+        "estado": "online",
+        "nap": "NAP-DESCONOCIDO",
+        "x": -68.1601,
+        "y": -16.4921,
+        "ultima": 1753847390
+    },
+    "00000": {
+        "nombre": "00000",
+        "pppoe": "00000",
+        "ip": "",
+        "estado": "offline",
+        "nap": "NAP-DESCONOCIDO",
+        "x": -68.1562,
+        "y": -16.5403,
+        "ultima": 1751356430
+    },
+    "P10-diomedesvargaslayme": {
+        "nombre": "P10-diomedesvargaslayme",
+        "pppoe": "P10-diomedesvargaslayme",
+        "ip": "172.171.2.8",
+        "estado": "online",
+        "nap": "NAP-DESCONOCIDO",
+        "x": -68.1295,
+        "y": -16.4693,
+        "ultima": 1753847390
+    }
+}

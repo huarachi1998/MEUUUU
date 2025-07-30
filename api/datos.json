@@ -1,0 +1,38 @@
+[
+    {
+        "nap_id": "NAP-1",
+        "nombre": "Caja Central",
+        "lat": -17.7833,
+        "lng": -63.1821,
+        "capacidad": 5,
+        "clientes": [
+            {
+                "nombre": "Maria Delia Choquehuanca",
+                "pppoe": "P1_mariadeliachoquehuanca",
+                "lat": -17.771410426261923,
+                "lng": -63.14614010442805
+            },
+            {
+                "nombre": "Jose Luis Ortega",
+                "pppoe": "P2_joseluisortega",
+                "lat": -17.7838,
+                "lng": -63.1825
+            }
+        ]
+    },
+    {
+        "nap_id": "NAP-2",
+        "nombre": "Caja Norte",
+        "lat": -17.781,
+        "lng": -63.1805,
+        "capacidad": 3,
+        "clientes": [
+            {
+                "nombre": "Ana Mar\u00eda P\u00e9rez",
+                "pppoe": "P3_anamariaperez",
+                "lat": -17.7812,
+                "lng": -63.1802
+            }
+        ]
+    }
+]

@@ -1,0 +1,147 @@
+
+body {
+  margin: 0;
+  font-family: 'Segoe UI', sans-serif;
+  background-color: #f2f2f2;
+}
+
+#topbar {
+  background-color: #1e293b;
+  padding: 10px;
+  display: flex;
+  gap: 10px;
+  align-items: center;
+  color: white;
+  font-size: 16px;
+}
+
+#topbar input[type="text"],
+#topbar select {
+  padding: 10px;
+  border-radius: 5px;
+  border: none;
+  font-size: 16px;
+}
+
+#btnSidebar {
+  position: absolute;
+  top: 12px;
+  left: 12px;
+  z-index: 999;
+  font-size: 22px;
+  background: #0ea5e9;
+  color: white;
+  padding: 8px 14px;
+  border-radius: 6px;
+  border: none;
+  cursor: pointer;
+  box-shadow: 0 2px 5px rgba(0,0,0,0.2);
+}
+
+#btnSidebar:hover {
+  background: #0284c7;
+}
+
+#sidebar {
+  position: fixed;
+  left: -320px;
+  top: 0;
+  width: 300px;
+  height: 100%;
+  background: #ffffff;
+  border-right: 2px solid #ddd;
+  box-shadow: 3px 0 6px rgba(0,0,0,0.1);
+  padding: 20px;
+  z-index: 998;
+  transition: left 0.3s ease;
+  overflow-y: auto;
+}
+
+#sidebar.active {
+  left: 0;
+}
+
+#sidebar h3 {
+  font-size: 20px;
+  margin-bottom: 15px;
+  color: #0f172a;
+  border-bottom: 2px solid #e2e8f0;
+  padding-bottom: 5px;
+}
+
+#sidebar button.filtro {
+  display: block;
+  width: 100%;
+  background-color: #e0f2fe;
+  border: none;
+  border-left: 4px solid #0284c7;
+  padding: 10px;
+  margin-bottom: 8px;
+  font-size: 16px;
+  text-align: left;
+  color: #0f172a;
+  cursor: pointer;
+  border-radius: 5px;
+  transition: all 0.2s ease-in-out;
+}
+
+#sidebar button.filtro:hover {
+  background-color: #bae6fd;
+  transform: translateX(3px);
+}
+
+#listaClientes {
+  margin-top: 20px;
+  font-size: 15px;
+  color: #1e293b;
+}
+
+#mapa {
+  height: 100vh;
+  width: 100%;
+  z-index: 1;
+}
+
+.modal {
+  display: none;
+  position: fixed;
+  z-index: 1001;
+  left: 0;
+  top: 0;
+  width: 100%;
+  height: 100%;
+  overflow: auto;
+  background-color: rgba(0,0,0,0.6);
+}
+
+.modal-content {
+  background-color: #fefefe;
+  margin: 10% auto;
+  padding: 20px;
+  border: 1px solid #888;
+  width: 400px;
+  border-radius: 8px;
+  font-size: 16px;
+}
+
+.close {
+  color: #aaa;
+  float: right;
+  font-size: 28px;
+  font-weight: bold;
+  cursor: pointer;
+}
+
+button[type="submit"] {
+  background-color: #0ea5e9;
+  border: none;
+  padding: 10px 16px;
+  color: white;
+  font-size: 16px;
+  border-radius: 6px;
+  cursor: pointer;
+}
+
+button[type="submit"]:hover {
+  background-color: #0284c7;
+}
